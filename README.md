@@ -37,7 +37,7 @@
 				<li><a href="">🏅 Leveling System</a></li>
 				<li><a href="">🎫 Twitter Codes</a></li>
 				<li><a href="">🎮 XBOX Controller Support</a></li>
-			</ul><br>
+			</ul>
 		</td>
 	</tr>
 </table><br>
