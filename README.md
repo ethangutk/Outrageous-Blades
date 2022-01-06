@@ -7,8 +7,8 @@
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/ethangutknecht/Outrageous-Blades#%E2%84%B9-about-the-game">ℹ About The Game</a><br><br>
 			<a href="https://github.com/ethangutknecht/Outrageous-Blades#-notable-acheviements">🏆 Notable Acheviements</a><br><br>
+			<a href="https://github.com/ethangutknecht/Outrageous-Blades#%E2%84%B9-about-the-game">ℹ About The Game</a><br><br>
 			<a href="https://github.com/ethangutknecht/Outrageous-Blades#-different-types-of-minigames">🕹 Different Types Of Minigames</a>
 			<ul>
 				<li><a href="">👑 Traditional Bracket</a></li>
@@ -42,14 +42,6 @@
 		</td>
 	</tr>
 </table><br>
-<br><br><br>
-
-## ℹ About The Game
-In 2015, I made this game when I was 15 years old, and the total development time was around 5-6 months. It was an addition to my "Outrageous" game series that I had on Roblox at the time.  This game is a highly interactive and intense battle. The game features seven minigames and thirty-two maps involving hundreds of ways minigames can play out. Players will earn in-game currency to spend on different types of cosmetic items, like sword skins, player trails, pets, and gift boxes. The more a player will battle, the more in-game experience they will collect. Leveling up your character will give opportunities to upgrade how strong the player will be in battle. The cartoon-style adventure gives players a fun experience making it easy to play for hours!
-<br>
-<p align="center">
-	<img src="https://github.com/ethangutknecht/Outrageous-Blades/blob/main/Images/AboutTheGame_1.png?raw=true">
-</p>
 
 <br><br><br>
 ## 🏆 Notable Acheviements
@@ -72,6 +64,15 @@ I had an overwhelming amount of people play the game, enough people for me to ev
 </p>
 
 <br><br><br>
+
+## ℹ About The Game
+In 2015, I made this game when I was 15 years old, and the total development time was around 5-6 months. It was an addition to my "Outrageous" game series that I had on Roblox at the time.  This game is a highly interactive and intense battle. The game features seven minigames and thirty-two maps involving hundreds of ways minigames can play out. Players will earn in-game currency to spend on different types of cosmetic items, like sword skins, player trails, pets, and gift boxes. The more a player will battle, the more in-game experience they will collect. Leveling up your character will give opportunities to upgrade how strong the player will be in battle. The cartoon-style adventure gives players a fun experience making it easy to play for hours!
+<br>
+<p align="center">
+	<img src="https://github.com/ethangutknecht/Outrageous-Blades/blob/main/Images/AboutTheGame_1.png?raw=true">
+</p>
+<br><br><br>
+
 ## 🕹 Different Types Of Minigames
 ### 👑 Traditional Bracket
 
