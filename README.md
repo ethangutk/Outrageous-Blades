@@ -7,9 +7,9 @@
 	</tr>
 	<tr>
 		<td>
-			<a href="">ℹ About The Game</a><br><br>
-			<a href="">🏆 Game Acheviements</a><br><br>
-			<a href="">🕹 Different Types Of Minigames</a>
+			<a href="https://github.com/ethangutknecht/Outrageous-Blades#%E2%84%B9-about-the-game">ℹ About The Game</a><br><br>
+			<a href="https://github.com/ethangutknecht/Outrageous-Blades#-notable-acheviements">🏆 Notable Acheviements</a><br><br>
+			<a href="https://github.com/ethangutknecht/Outrageous-Blades#-different-types-of-minigames">🕹 Different Types Of Minigames</a>
 			<ul>
 				<li><a href="">👑 Traditional Bracket</a></li>
 				<li><a href="">👫 2 vs. 2 .vs 2</a></li>
@@ -45,15 +45,14 @@
 <br><br><br>
 
 ## ℹ About The Game
-In 2015, I made this game when I was 15 years old, and the total development time was around 5-6 months. It was an addition to my "Outrageous" game series that I had on Roblox at the time.  This game is a highly interactive and intense battle. The game features seven minigames and thirty-two maps involving hundreds of ways minigames can play out. Players will earn in-game currency to spend on different types of cosmetic items, like sword skins, player trails, pets, and gift boxes. The more a player will battle, the more in-game experience they will collect. Leveling up your character will give opportunities to upgrade how strong the player will be in battle. The cartoon-style adventure gives players a fun experience making it easy to play for hours!<br><br>
-In 2015, I made this game when I was 14 and stopped developping it when I was 15. It was an adition to my "Outrageous" game series that I had on Roblox at the time. 
+In 2015, I made this game when I was 15 years old, and the total development time was around 5-6 months. It was an addition to my "Outrageous" game series that I had on Roblox at the time.  This game is a highly interactive and intense battle. The game features seven minigames and thirty-two maps involving hundreds of ways minigames can play out. Players will earn in-game currency to spend on different types of cosmetic items, like sword skins, player trails, pets, and gift boxes. The more a player will battle, the more in-game experience they will collect. Leveling up your character will give opportunities to upgrade how strong the player will be in battle. The cartoon-style adventure gives players a fun experience making it easy to play for hours!
 <br>
 <p align="center">
 	<img src="https://github.com/ethangutknecht/Outrageous-Blades/blob/main/Images/AboutTheGame_1.png?raw=true">
 </p>
 
 <br><br><br>
-## 🏆 Game Acheviements
+## 🏆 Notable Acheviements
 #### ROBLOX Admins
 Roblox admins are employees at ROBLOX headquarters. They develop and work on the game engine, website, avatars, and events. Throughout the development of Outrageous Blades, I had many employees play and give me constructive criticism about the game. This was a pretty big accomplishment for me since many of these people that visited the game were people I looked up to as role models. Many of these people are still very notable people within the community.
 <br>
@@ -176,3 +175,6 @@ I had an overwhelming amount of people play the game, enough people for me to ev
 <p align="center">
   Copyright © Ethan Gutknecht 2021
 </p>
+
+
+
