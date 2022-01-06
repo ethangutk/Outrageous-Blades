@@ -19,6 +19,7 @@
 				<li><a href="">👨‍👩‍👧‍👦 Team Deathmatch</a></li>
 				<li><a href="">🎯 Kill The Carrier</a></li>
 			</ul>
+			<a href="">🗺 Different Types Of Maps</a><br><br>
 		</td>
 		<td>
 			<a href="">💰 Shop Items</a>
@@ -44,13 +45,32 @@
 <br><br><br>
 
 ## ℹ About The Game
-
-
+In 2015, I made this game when I was 15 years old, and the total development time was around 5-6 months. It was an addition to my "Outrageous" game series that I had on Roblox at the time.  This game is a highly interactive and intense battle. The game features seven minigames and thirty-two maps involving hundreds of ways minigames can play out. Players will earn in-game currency to spend on different types of cosmetic items, like sword skins, player trails, pets, and gift boxes. The more a player will battle, the more in-game experience they will collect. Leveling up your character will give opportunities to upgrade how strong the player will be in battle. The cartoon-style adventure gives players a fun experience making it easy to play for hours!<br><br>
+In 2015, I made this game when I was 14 and stopped developping it when I was 15. It was an adition to my "Outrageous" game series that I had on Roblox at the time. 
+<br>
+<p align="center">
+	<img src="https://github.com/ethangutknecht/Outrageous-Blades/blob/main/Images/AboutTheGame_1.png?raw=true">
+</p>
 
 <br><br><br>
 ## 🏆 Game Acheviements
+#### ROBLOX Admins
+Roblox admins are employees at ROBLOX headquarters. They develop and work on the game engine, website, avatars, and events. Throughout the development of Outrageous Blades, I had many employees play and give me constructive criticism about the game. This was a pretty big accomplishment for me since many of these people that visited the game were people I looked up to as role models. Many of these people are still very notable people within the community.
+<br>
+#### ROBLOX's "Front Page"
+Even six years later, getting to the front page is still an outstanding achievement. The "Front Page" is a term used in Roblox to represent the top games on the site at the time. The games with the most concurrent players will reach the top of the site. In 2014-2015, there was an area on the front page called the "Featured Section" where the only way to have your game come across that section was to have a ROBLOX Admin hand pick it and add it. On February 18th, 2016, a very generous ROBLOX admin decided to feature my game in the "Featured Section.” The front page featured Outrageous Blades for about two months before ROBLOX employees took it off to allow new talent to show off their games!
 
+<p align="center">
+	<img src="https://github.com/ethangutknecht/Outrageous-Blades/blob/main/Images/Achievements_1.png?raw=true">
+	
+</p>
 
+#### Game Visits
+I had an overwhelming amount of people play the game, enough people for me to even understand as a young man in my computer science carrier. Total, we had 360,000 people play between 2014 and 2016. In addition, there was a total of 177,000 unique players joining the game.
+
+<p align="center">
+	<img src="https://github.com/ethangutknecht/Outrageous-Blades/blob/main/Images/Achievements_2.png?raw=true">
+</p>
 
 <br><br><br>
 ## 🕹 Different Types Of Minigames
@@ -79,6 +99,11 @@
 
 <br><br>
 ### 🎯 Kill The Carrier
+
+
+<br><br><br>
+## 🕹 Different Types Of Minigames
+
 
 
 <br><br><br>
