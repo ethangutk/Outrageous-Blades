@@ -65,7 +65,7 @@ Even six years later, getting to the front page is still an outstanding achievem
 </p>
 
 #### Game Visits
-I had an overwhelming amount of people play the game, enough people for me to even understand as a young man in my computer science carrier. Total, we had 360,000 people play between 2014 and 2016. In addition, there was a total of 177,000 unique players joining the game.
+I had an overwhelming amount of people play the game, enough people for me to even understand as a young man in my computer science career. Total, we had 360,000 people play between 2014 and 2016. In addition, there was a total of 177,000 unique players joining the game.
 
 <p align="center">
 	<img src="https://github.com/ethangutknecht/Outrageous-Blades/blob/main/Images/Achievements_2.png?raw=true">
