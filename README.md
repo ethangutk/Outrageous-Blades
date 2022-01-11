@@ -102,8 +102,8 @@ Team deathmatch is pretty simple. This game mode splits all players into two tea
 Kill the carrier is a different type of minigame. Everyone is out to get you, and you can’t defend yourself. One random player is selected, and that player has to survive as long as possible. When the carrier gets eliminated, the game will reward them based on how many players were in the game and how long he could stay alive multiplied by 3. So if the carrier were alive for 20 seconds while eight players were trying to eliminate him, he would get 480 bells (20 seconds * 8 players * 3 static multiplier = 480 bells). The player that stopped the carrier will be the new carrier, and the process will continue until there are three people in the match.
 
 <br><br><br>
-## 🕹 Different Types Of Minigames
-
+## 🗺 Different Types Of Maps
+Allowing the change of geography where users battle is the most straightforward added feature that gives the game a unique experience. As the game started to gain popularity, I got tons of messages from people saying they wanted to make maps for Outrageous Blades. At the end of the game’s development, I ended with 32 maps created mainly by users other than me, which is neat. The map will change every round and have its strategy, depending on the game mode. This is the best feature that throws a wrench in the gearbox when it comes to players’ gameplay strategies. 
 
 
 <br><br><br>
@@ -176,14 +176,3 @@ Kill the carrier is a different type of minigame. Everyone is out to get you, an
 <p align="center">
   Copyright © Ethan Gutknecht 2021
 </p>
-
-
-
-
-
-
-
-
-
-
-
