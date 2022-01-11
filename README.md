@@ -79,30 +79,30 @@ The traditional bracket was one of the first minigames. Think of this minigame a
 
 <br><br>
 ### 👫 2 vs. 2 .vs 2
-This minigame was an exciting mode to implement. It creates three teams of two and puts them in a match together. The three teams will start on the left, middle, and right sides. The game will clearly label each pair in-game with green, blue, or red arrows above their heads. The last team standing wins the experience and bells. 
+This minigame was an exciting mode to implement. It creates three teams of two and puts them in a match together. The three teams will start on the left, middle, and right sides. The game will clearly label each pair in-game with green, blue, or red arrows above their heads. The last team standing wins 250 bells and some in-game experience.
 
 <br><br>
 ### 💪 Juggernaut 
-Juggernaut is one of the most remarkable game modes I came across when researching. One random player has to face every other player in the game; this player is called the Juggernaut. The Juggernaut’s sword will have the same power as every other player’s sword, but his health will equal the health of all the players he is facing. So, for example, if the juggernaut is facing 11 players, then his health will be 1100 (11 players x 100hp = 1100hp). Super fun game mode to participate and spectate.
+Juggernaut is one of the most remarkable game modes I came across when researching. One random player has to face every other player in the game; this player is called the Juggernaut. The Juggernaut’s sword will have the same power as every other player’s sword, but his health will equal the health of all the players he is facing. So, for example, if the juggernaut is facing 11 players, then his health will be 1100 (11 players x 100hp = 1100hp). Super fun game mode to participate and spectate. The game clock will also reflect how many people are in the game. For example, if there are 12 people in the game, there will be 4 minutes on the clock (20 seconds * 12 players = 240 seconds = 4 minutes).
 
 <br><br>
 ### 🧍‍ Free For All
-Free for all is pretty self-explanatory; all the players are given the same health and sword. Then, the players are teleported within the map in random locations. The last player to be standing wins the round.
+Free for all is pretty self-explanatory; all the players acquire the same health and sword. Then, the players teleport within the map in random locations. The last player to be standing wins the round. The winner will receive 1000 bells and 250 experiences.
 
 <br><br>
 ### 💣 Time Bomb
-The time bomb is by far my most favorite minigame within this game. This game is a swift hot potato game. One guy has the time bomb, and he must hand it off to another person before the 15 seconds is up. The person carrying the bomb will turn into a TNT to let the other players know he is the current holder. The game will continue until there is one player left in the game. That player is crowned the winner and given experience and bells.
+The time bomb is by far my most favorite minigame within this game. This game is a swift hot potato game. One guy has the time bomb, and he must hand it off to another person before the 15 seconds is up. The person carrying the bomb will turn into a TNT to let the other players know he is the current holder. The game will continue until there are three players left in the game. The final three receive 300 bells and 50 experience for not being eliminated.
 
 <br><br>
 ### 👨‍👩‍👧‍👦 Team Deathmatch
-Team deathmatch is pretty simple. Like any other game, this game mode splits all of the players into two teams. The two teams will have to battle each other, and the last remaining team will be crowned victors and be given experience and bells.
+Team deathmatch is pretty simple. This game mode splits all players into two teams like any other game. Each group will be labeled in-game with a red or blue arrow, so there is no confusion on who is on each team. When one team is left standing, the game crowns the victors. The remaining team’s reward is 200 bells each and some in-game experience.
 
 <br><br>
 ### 🎯 Kill The Carrier
-Kill the carrier is a different type of minigame. Everyone is out to get you and you can’t defend yourself. One random player is selected and that player has to survive as long as possible. When that player is eliminated, they will be rewarded based on how many players were in the game and how long he could stay alive. The player that eliminated the carrier will be the new carrier and the process will continue until there is 3 people in the match.
+Kill the carrier is a different type of minigame. Everyone is out to get you, and you can’t defend yourself. One random player is selected, and that player has to survive as long as possible. When the carrier gets eliminated, the game will reward them based on how many players were in the game and how long he could stay alive multiplied by 3. So if the carrier were alive for 20 seconds while eight players were trying to eliminate him, he would get 480 bells (20 seconds * 8 players * 3 static multiplier = 480 bells). The player that stopped the carrier will be the new carrier, and the process will continue until there are three people in the match.
 
 <br><br><br>
-## 🗺 Different Types Of Maps
+## 🕹 Different Types Of Minigames
 
 
 
@@ -176,6 +176,8 @@ Kill the carrier is a different type of minigame. Everyone is out to get you and
 <p align="center">
   Copyright © Ethan Gutknecht 2021
 </p>
+
+
 
 
 
