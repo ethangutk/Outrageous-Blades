@@ -11,15 +11,15 @@
 			<a href="https://github.com/ethangutknecht/Outrageous-Blades#%E2%84%B9-about-the-game">ℹ About The Game</a><br><br>
 			<a href="https://github.com/ethangutknecht/Outrageous-Blades#-different-types-of-minigames">🕹 Different Types Of Minigames</a>
 			<ul>
-				<li><a href="">👑 Traditional Bracket</a></li>
-				<li><a href="">👫 2 vs. 2 .vs 2</a></li>
-				<li><a href="">💪 Juggernaut</a></li>
-				<li><a href="">🧍‍ Free For All</a></li>
-				<li><a href="">💣 Time Bomb</a></li>
-				<li><a href="">👨‍👩‍👧‍👦 Team Deathmatch</a></li>
-				<li><a href="">🎯 Kill The Carrier</a></li>
+				<li><a href="https://github.com/ethangutknecht/Outrageous-Blades/blob/main/README.md#-traditional-bracket">👑 Traditional Bracket</a></li>
+				<li><a href="https://github.com/ethangutknecht/Outrageous-Blades/blob/main/README.md#-2-vs-2-vs-2">👫 2 vs. 2 .vs 2</a></li>
+				<li><a href="https://github.com/ethangutknecht/Outrageous-Blades/blob/main/README.md#-juggernaut">💪 Juggernaut</a></li>
+				<li><a href="https://github.com/ethangutknecht/Outrageous-Blades/blob/main/README.md#-free-for-all">🧍‍ Free For All</a></li>
+				<li><a href="https://github.com/ethangutknecht/Outrageous-Blades/blob/main/README.md#-time-bomb">💣 Time Bomb</a></li>
+				<li><a href="https://github.com/ethangutknecht/Outrageous-Blades/blob/main/README.md#-team-deathmatch">👨‍👩‍👧‍👦 Team Deathmatch</a></li>
+				<li><a href="https://github.com/ethangutknecht/Outrageous-Blades/blob/main/README.md#-kill-the-carrier">🎯 Kill The Carrier</a></li>
 			</ul>
-			<a href="">🗺 Different Types Of Maps</a><br><br>
+			<a href="https://github.com/ethangutknecht/Outrageous-Blades/blob/main/README.md#-different-types-of-maps">🗺 Different Types Of Maps</a><br><br>
 		</td>
 		<td>
 			<a href="">💰 Shop Items</a>
@@ -176,3 +176,4 @@ Allowing the change of geography where users battle is the most straightforward 
 <p align="center">
   Copyright © Ethan Gutknecht 2021
 </p>
+
