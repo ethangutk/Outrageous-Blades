@@ -1,6 +1,6 @@
 | ⚠ ⚠ ⚠ ***DISCLAIMER*** ⚠ ⚠ ⚠
 | :---:
-| This readme.md is not finished yet since. I am still gathering information to write about some of the features about this project but I wanted to make it public so you can check out the code in the meantime.
+| This readme.md is not finished yet since. I am still gathering information to write about some of the features of this project but I wanted to make it public so you can check out the code in the meantime.
 
 <h1 align="center">⚔ Outrageous Blades</h1><br>
 <table align="center">
