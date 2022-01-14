@@ -55,8 +55,8 @@ ROBLOX admins are employees at ROBLOX headquarters. They develop and work on the
 <p align="center">
 	<img src="https://github.com/ethangutknecht/Outrageous-Blades/blob/main/Images/ROBLOXAdminList1.png?raw=true">
 </p>
-
 <br>
+
 #### ROBLOX's "Front Page"
 Even six years later, getting to the front page is still an outstanding achievement. The "Front Page" is a term used in ROBLOX to represent the top games on the site at the time. The games with the most concurrent players will reach the top of the site. In 2014-2015, there was an area on the front page called the "Featured Section" where the only way to have your game come across that section was to have a ROBLOX Admin hand pick it and add it. On February 18th, 2016, a very generous ROBLOX admin decided to feature my game in the "Featured Section.” The front page featured Outrageous Blades for about two months before ROBLOX employees took it off to allow new talent to show off their games!
 
@@ -198,7 +198,10 @@ As stated earlier, you were able to unlock chests using keys. In addition, some 
 	<img src="https://github.com/ethangutknecht/Outrageous-Blades/blob/main/Images/Money1.png?raw=true">
 </p>
 
+#### 🟨 Gold
+Gold was a “Premium” status players could buy for the game. The pass cost 350 ROBUX and was also a one-time purchase. This status gave players a yellow chat tag and showed off they had Gold and some shop discounts.
 <br>
+
 #### 🔔 Buying Bells
 In Outrageous Blades, players could also buy Bells directly using ROBUX. This menu was also a considerable contribution to making some pocket cash. You can see the exchange rate below.
 <br>
@@ -207,7 +210,6 @@ In Outrageous Blades, players could also buy Bells directly using ROBUX. This me
 	<img src="https://github.com/ethangutknecht/Outrageous-Blades/blob/main/Images/BuyBells1.png?raw=true">
 </p>
 
-<br>
 #### 💃 Emotes
 Emotes as something I added towards the end of the game’s lifetime. Emotes were animations that you could buy with a one-time purchase for your character to perform a player animation. For example, the game’s emotes included dancing, clapping, working out, and more. These emote were low-cost to the player, which let tons of people purchase them.
 <br>
@@ -215,10 +217,6 @@ Emotes as something I added towards the end of the game’s lifetime. Emotes wer
 <p align="center">
 	<img src="https://github.com/ethangutknecht/Outrageous-Blades/blob/main/Images/Emotes1.png?raw=true">
 </p>
-
-<br>
-#### 🟨 Gold
-Gold was a “Premium” status players could buy for the game. The pass cost 350 ROBUX and was also a one-time purchase. This status gave players a yellow chat tag and showed off they had Gold and some shop discounts.
 
 
 <br><br><br>
