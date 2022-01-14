@@ -26,22 +26,22 @@
 			<a href="https://github.com/ethangutknecht/Outrageous-Blades/blob/main/README.md#-different-types-of-maps">🗺 Different Types Of Maps</a><br><br>
 		</td>
 		<td>
-			<a href="">💰 Shop Items</a>
+			<a href="https://github.com/ethangutknecht/Outrageous-Blades/blob/main/README.md#-shop-items">💰 Shop Items</a>
 			<ul>
-				<li><a href="">🎨 Sword Skins</a></li>
-				<li><a href="">🐾 Player Trails</a></li>
-				<li><a href="">🐶 Pets</a></li>
-				<li><a href="">🎁 Chests</a></li>
-				<li><a href="">📈 Blade Buffs</a></li>
+				<li><a href="https://github.com/ethangutknecht/Outrageous-Blades/blob/main/README.md#-sword-skins">🎨 Sword Skins</a></li>
+				<li><a href="https://github.com/ethangutknecht/Outrageous-Blades/blob/main/README.md#-player-trails">🐾 Player Trails</a></li>
+				<li><a href="https://github.com/ethangutknecht/Outrageous-Blades/blob/main/README.md#-pets">🐶 Pets</a></li>
+				<li><a href="https://github.com/ethangutknecht/Outrageous-Blades/blob/main/README.md#-chests">🎁 Chests</a></li>
+				<li><a href="https://github.com/ethangutknecht/Outrageous-Blades/blob/main/README.md#-blade-buffs">📈 Blade Buffs</a></li>
 			</ul>
-			<a href="">💸 How I Made Money</a><br><br>
-			<a href="">🔣 Other Features</a>
+			<a href="https://github.com/ethangutknecht/Outrageous-Blades/blob/main/README.md#-how-i-made-money">💸 How I Made Money</a><br><br>
+			<a href="https://github.com/ethangutknecht/Outrageous-Blades/blob/main/README.md#-other-features">🔣 Other Features</a>
 			<ul>
-				<li><a href="">💬 Custom GUI Chat</a></li>
-				<li><a href="">💽 Custom Player Database</a></li>
-				<li><a href="">🏅 Leveling System</a></li>
-				<li><a href="">🎫 Twitter Codes</a></li>
-				<li><a href="">🎮 XBOX Controller Support</a></li>
+				<li><a href="https://github.com/ethangutknecht/Outrageous-Blades/blob/main/README.md#-custom-gui-chat">💬 Custom GUI Chat</a></li>
+				<li><a href="https://github.com/ethangutknecht/Outrageous-Blades/blob/main/README.md#-custom-player-database">💽 Custom Player Database</a></li>
+				<li><a href="https://github.com/ethangutknecht/Outrageous-Blades/blob/main/README.md#-leveling-system">🏅 Leveling System</a></li>
+				<li><a href="https://github.com/ethangutknecht/Outrageous-Blades/blob/main/README.md#-twitter-codes">🎫 Twitter Codes</a></li>
+				<li><a href="https://github.com/ethangutknecht/Outrageous-Blades/blob/main/README.md#-xbox-controller-support">🎮 XBOX Controller Support</a></li>
 			</ul>
 		</td>
 	</tr>
@@ -284,3 +284,6 @@ Close to the end of the game’s life, ROBLOX developed cross-platform capabilit
 <p align="center">
   Copyright © Ethan Gutknecht 2021
 </p>
+
+
+
