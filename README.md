@@ -71,8 +71,53 @@ I had an overwhelming amount of people play the game, enough people for me to ev
 <br><br><br>
 
 ## ℹ About The Game
-In 2016, I made this game when I was 15 years old, and the total development time was around 5-6 months. It was an addition to my "Outrageous" game series that I had on ROBLOX at the time.  This game is a highly interactive and intense battle. The game features seven minigames and thirty-two maps involving hundreds of ways minigames can play out. Players will earn in-game currency to spend on different types of cosmetic items, like sword skins, player trails, pets, and chests with random items. The more a player will battle, the more in-game experience they will collect. Leveling up your character will give opportunities to upgrade how strong the player will be in battle. The cartoon-style adventure gives players a fun experience making it easy to play for hours!
-<br>
+In 2016, I made this game when I was 15 years old, and the total development time was around 5-6 months. It was an addition to my "Outrageous" game series that I had on ROBLOX at the time.  This game is a highly interactive and intense battle. The game features seven minigames and thirty-two maps involving hundreds of ways minigames can play out. Players will earn in-game currency to spend on different types of cosmetic items, like sword skins, player trails, pets, and chests with random items. The more a player will battle, the more in-game experience they will collect. Leveling up your character will give opportunities to upgrade how strong the player will be in battle. The cartoon-style adventure gives players a fun experience making it easy to play for hours!<br><br>
+
+<h6 align="center">(excluding blank and duplicate lines)</h6>
+<table align="center">
+	<tr>
+		<th>
+			Type Of Script
+		</th>
+		<th>
+			Lines Of Code
+		</th>
+	</tr>
+	<tr>
+		<td>
+			Global Script
+		</td>
+		<td>
+			2,743
+		</td>
+	</tr>
+	<tr>
+		<td>
+			Local Script
+		</td>
+		<td>
+			6,021
+		</td>
+	</tr>
+	<tr>
+		<td>
+			Module Script
+		</td>
+		<td>
+			4,143
+		</td>
+	</tr>
+	<tr>
+		<th>
+			Total:
+		</th>
+		<td>
+			12,907
+		</td>
+	</tr>
+</table>
+
+<br><br>
 <p align="center">
 	<img src="https://github.com/ethangutknecht/Outrageous-Blades/blob/main/Images/AboutTheGame_1.png?raw=true">
 </p>
