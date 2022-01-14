@@ -1,8 +1,4 @@
-<h1 align="center">⚔ Outrageous Blades</h1><br>
-
-<br><br><br>
-
-
+<h1 align="center">⚔ Outrageous Blades</h1><br><br>
 <table align="center">
 	<tr>
 		<th colspan="2">
@@ -49,7 +45,6 @@
 
 <br><br><br>
 <br><br><br>
-
 ## 🏆 Notable Acheviements
 #### ROBLOX Admins
 ROBLOX admins are employees at ROBLOX headquarters. They develop and work on the game engine, website, avatars, and events. Producing Outrageous Blades, I had many employees play and give constructive criticism. These people playing this game were a significant accomplishment since many of these people I looked up to as role models. Many of these people are still very notable people within the community.
@@ -284,6 +279,12 @@ Close to the end of the game’s life, ROBLOX developed cross-platform capabilit
 - - - -
 
 <p align="center">
-  Copyright © Ethan Gutknecht 2021
+  Copyright © Ethan Gutknecht 2016-2021
 </p>
+
+
+
+
+
+
 
