@@ -1,4 +1,8 @@
-<h1 align="center">⚔ Outrageous Blades</h1><br><br>
+<h1 align="center">⚔ Outrageous Blades</h1><br>
+
+<br><br><br>
+
+
 <table align="center">
 	<tr>
 		<th colspan="2">
@@ -45,6 +49,7 @@
 
 <br><br><br>
 <br><br><br>
+
 ## 🏆 Notable Acheviements
 #### ROBLOX Admins
 ROBLOX admins are employees at ROBLOX headquarters. They develop and work on the game engine, website, avatars, and events. Producing Outrageous Blades, I had many employees play and give constructive criticism. These people playing this game were a significant accomplishment since many of these people I looked up to as role models. Many of these people are still very notable people within the community.
@@ -157,7 +162,7 @@ Player Trails is a shop feature where I experimented with a player’s gameplay.
 
 <br><br>
 ### 🐶 Pets
-I wanted Bells to have more extensive uses than to unlock [chests](https://github.com/ethangutknecht/Outrageous-Blades/blob/main/README.md#-chests). With that in mind, I made the code for the pet itself, and I thought it would be a great addition to the game. Players can buy pets outright using Bells, and they will follow you around in-game. This addition was the first time that I introduced seasonal items. For example, I made a jack-o-lantern pet that the player could only buy in October. I think this feature gave a nice roundedness to the in-game shop.
+I wanted Bells to have more extensive uses than unlocking [chests](https://github.com/ethangutknecht/Outrageous-Blades/blob/main/README.md#-chests). With that in mind, I made the code for the pet itself, and I thought it would be a great addition to the game. Players can buy pets outright using Bells, and they will follow you around in-game. This addition was the first time that I introduced seasonal items. For example, I made a jack-o-lantern pet that the player could only buy in October. I think this feature gave a nice roundedness to the in-game shop.
 <br>
 
 <p align="center">
@@ -188,7 +193,7 @@ Blade buffs used a different currency than all of the features listed above. Bla
 Though I didn’t make much money, I did profit a little. Whenever someone spent ROBUX to buy an in-game item, I would receive around 80% of that purchase, and ROBLOX took the other 20%. For example, the Earth Chest has keys that cost nine ROBUX each. I would receive seven in my account, and ROBLOX would take the other two. A couple of months before my game started to take off, ROBLOX released a new internal program called the Developer Exchange Program. In short, this allowed developers on the website to cash out ROBUX for real United States dollars.
 <br>
 #### 🗝 Chest Keys
-As stated earlier, you were able to unlock [chests](https://github.com/ethangutknecht/Outrageous-Blades/blob/main/README.md#-chests) using keys. In addition, some of the keys that the game offered, you could buy using ROBUX. For example, one of the chests with many player trails costs nine ROBUX per key.
+As stated earlier, you could unlock [chests](https://github.com/ethangutknecht/Outrageous-Blades/blob/main/README.md#-chests) using keys. In addition, some of the keys that the game offered, you could buy using ROBUX. For example, one of the chests with many player trails costs nine ROBUX per key.
 <br>
 
 <p align="center">
@@ -281,8 +286,4 @@ Close to the end of the game’s life, ROBLOX developed cross-platform capabilit
 <p align="center">
   Copyright © Ethan Gutknecht 2021
 </p>
-
-
-
-
 
