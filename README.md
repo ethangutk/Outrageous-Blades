@@ -1,6 +1,6 @@
 | ⚠ ⚠ ⚠ ***DISCLAIMER*** ⚠ ⚠ ⚠
 | :---:
-| This readme.md is not finished yet since. I am still gathering information to write about some of the features of this project but I wanted to make it public so you can check out the code in the meantime.
+| This readme.md is not finished yet since. I am still gathering information to write about some of the features of this project, but I wanted to make it public so that you can check out the code in the meantime.
 
 <h1 align="center">⚔ Outrageous Blades</h1><br>
 <table align="center">
@@ -33,8 +33,8 @@
 				<li><a href="">🐶 Pets</a></li>
 				<li><a href="">🎁 Chests</a></li>
 				<li><a href="">📈 Blade Buffs</a></li>
-				<li><a href="">🔔 Buy Bells</a></li>
 			</ul>
+			<a href="">💸 How I Made Money</a><br><br>
 			<a href="">🔣 Other Features</a>
 			<ul>
 				<li><a href="">💬 Custom GUI Chat</a></li>
@@ -50,10 +50,10 @@
 <br><br><br>
 ## 🏆 Notable Acheviements
 #### ROBLOX Admins
-Roblox admins are employees at ROBLOX headquarters. They develop and work on the game engine, website, avatars, and events. Producing Outrageous Blades, I had many employees play and give constructive criticism. These people playing this game were a significant accomplishment since many of these people I looked up to as role models. Many of these people are still very notable people within the community.
+ROBLOX admins are employees at ROBLOX headquarters. They develop and work on the game engine, website, avatars, and events. Producing Outrageous Blades, I had many employees play and give constructive criticism. These people playing this game were a significant accomplishment since many of these people I looked up to as role models. Many of these people are still very notable people within the community.
 <br>
 #### ROBLOX's "Front Page"
-Even six years later, getting to the front page is still an outstanding achievement. The "Front Page" is a term used in Roblox to represent the top games on the site at the time. The games with the most concurrent players will reach the top of the site. In 2014-2015, there was an area on the front page called the "Featured Section" where the only way to have your game come across that section was to have a ROBLOX Admin hand pick it and add it. On February 18th, 2016, a very generous ROBLOX admin decided to feature my game in the "Featured Section.” The front page featured Outrageous Blades for about two months before ROBLOX employees took it off to allow new talent to show off their games!
+Even six years later, getting to the front page is still an outstanding achievement. The "Front Page" is a term used in ROBLOX to represent the top games on the site at the time. The games with the most concurrent players will reach the top of the site. In 2014-2015, there was an area on the front page called the "Featured Section" where the only way to have your game come across that section was to have a ROBLOX Admin hand pick it and add it. On February 18th, 2016, a very generous ROBLOX admin decided to feature my game in the "Featured Section.” The front page featured Outrageous Blades for about two months before ROBLOX employees took it off to allow new talent to show off their games!
 
 <p align="center">
 	<img src="https://github.com/ethangutknecht/Outrageous-Blades/blob/main/Images/Achievements_1.png?raw=true">
@@ -70,7 +70,7 @@ I had an overwhelming amount of people play the game, enough people for me to ev
 <br><br><br>
 
 ## ℹ About The Game
-In 2015, I made this game when I was 15 years old, and the total development time was around 5-6 months. It was an addition to my "Outrageous" game series that I had on Roblox at the time.  This game is a highly interactive and intense battle. The game features seven minigames and thirty-two maps involving hundreds of ways minigames can play out. Players will earn in-game currency to spend on different types of cosmetic items, like sword skins, player trails, pets, and gift boxes. The more a player will battle, the more in-game experience they will collect. Leveling up your character will give opportunities to upgrade how strong the player will be in battle. The cartoon-style adventure gives players a fun experience making it easy to play for hours!
+In 2015, I made this game when I was 15 years old, and the total development time was around 5-6 months. It was an addition to my "Outrageous" game series that I had on ROBLOX at the time.  This game is a highly interactive and intense battle. The game features seven minigames and thirty-two maps involving hundreds of ways minigames can play out. Players will earn in-game currency to spend on different types of cosmetic items, like sword skins, player trails, pets, and gift boxes. The more a player will battle, the more in-game experience they will collect. Leveling up your character will give opportunities to upgrade how strong the player will be in battle. The cartoon-style adventure gives players a fun experience making it easy to play for hours!
 <br>
 <p align="center">
 	<img src="https://github.com/ethangutknecht/Outrageous-Blades/blob/main/Images/AboutTheGame_1.png?raw=true">
@@ -83,7 +83,7 @@ The traditional bracket was one of the first minigames. Think of this minigame a
 
 <br><br>
 ### 👫 2 vs. 2 .vs 2
-This minigame was an exciting mode to implement. It creates three teams of two and puts them in a match together. The three teams will start on the left, middle, and right sides. The game will clearly label each pair in-game with green, blue, or red arrows above their heads. The last team standing wins 250 bells and some in-game experience.
+This minigame was an exciting mode to implement. It creates three teams of two and puts them in a match together. The three teams will start on the left, middle, and right sides. The game will clearly label each pair in-game with green, blue, or red arrows above their heads. The last team standing wins 250 Bells and some in-game experience.
 
 <br><br>
 ### 💪 Juggernaut 
@@ -91,75 +91,89 @@ Juggernaut is one of the most remarkable game modes I came across when researchi
 
 <br><br>
 ### 🧍‍ Free For All
-Free for all is pretty self-explanatory; all the players acquire the same health and sword. Then, the players teleport within the map in random locations. The last player to be standing wins the round. The winner will receive 1000 bells and 250 experiences.
+Free for all is pretty self-explanatory; all the players acquire the same health and sword. Then, the players teleport within the map in random locations. The last player to be standing wins the round. The winner will receive 1000 Bells and 250 experiences.
 
 <br><br>
 ### 💣 Time Bomb
-The time bomb is by far my most favorite minigame within this game. This game is a swift hot potato game. One guy has the time bomb, and he must hand it off to another person before the 15 seconds is up. The person carrying the bomb will turn into a TNT to let the other players know he is the current holder. The game will continue until there are three players left in the game. The final three receive 300 bells and 50 experience for not being eliminated.
+The time bomb is by far my most favorite minigame within this game. This game is a swift hot potato game. One guy has the time bomb, and he must hand it off to another person before the 15 seconds is up. The person carrying the bomb will turn into a TNT to let the other players know he is the current holder. The game will continue until there are three players left in the game. The final three receive 300 Bells and 50 experience for not being eliminated.
 
 <br><br>
 ### 👨‍👩‍👧‍👦 Team Deathmatch
-Team deathmatch is pretty simple. This game mode splits all players into two teams like any other game. Each group will be labeled in-game with a red or blue arrow, so there is no confusion on who is on each team. When one team is left standing, the game crowns the victors. The remaining team’s reward is 200 bells each and some in-game experience.
+Team deathmatch is pretty simple. This game mode splits all players into two teams like any other game. Each group will be labeled in-game with a red or blue arrow, so there is no confusion on who is on each team. When one team is left standing, the game crowns the victors. The remaining team’s reward is 200 Bells each and some in-game experience.
 
 <br><br>
 ### 🎯 Kill The Carrier
-Kill the carrier is a different type of minigame. Everyone is out to get you, and you can’t defend yourself. One random player is selected, and that player has to survive as long as possible. When the carrier gets eliminated, the game will reward them based on how many players were in the game and how long he could stay alive multiplied by 3. So if the carrier were alive for 20 seconds while eight players were trying to eliminate him, he would get 480 bells (20 seconds * 8 players * 3 static multiplier = 480 bells). The player that stopped the carrier will be the new carrier, and the process will continue until there are three people in the match.
+Kill the carrier is a different type of minigame. Everyone is out to get you, and you can’t defend yourself. One random player is selected, and that player has to survive as long as possible. When the carrier gets eliminated, the game will reward them based on how many players were in the game and how long he could stay alive multiplied by 3. So if the carrier were alive for 20 seconds while eight players were trying to eliminate him, he would get 480 Bells (20 seconds * 8 players * 3 static multiplier = 480 Bells). The player that stopped the carrier will be the new carrier, and the process will continue until there are three people in the match.
 
 <br><br><br>
 ## 🗺 Different Types Of Maps
-Allowing the change of geography where users battle is the most straightforward added feature that gives the game a unique experience. As the game started to gain popularity, I got tons of messages from people saying they wanted to make maps for Outrageous Blades. At the end of the game’s development, I ended with 32 maps created mainly by users other than me, which is neat. The map will change every round and have its strategy, depending on the game mode. This is the best feature that throws a wrench in the gearbox when it comes to players’ gameplay strategies. 
+Allowing the change of geography where users battle is the most straightforward added feature that gives the game a unique experience. As the game started to gain popularity, I got tons of messages from people saying they wanted to make maps for Outrageous Blades. At the end of the game’s development, I ended with 32 maps created mainly by users other than me, which is neat. Different maps are the best feature that throws a wrench in the gearbox for gameplay strategies. 
 
 
 <br><br><br>
 ## 💰 Shop Items
-### 🎨 Sword Skins
+When making this game, I wanted to make the shop very fair. In some games I played before developing the shop, the shop ruined the whole gameplay experience based on the in-game powerups that players could buy. So with that in mind, I wanted to make the game fair for everyone. The stuff you could buy using Bells, purchased using ROBUX were all cosmetic items. Robux could be bought on ROBLOX’s website using real money; thus, you could convert real cash into in-game Bells. Everything else that upgraded your player had to be purchased using a currency associated with the in-game experience, also known as Gems. Thus, in short, Gems and Bells are earned by playing the game, but Bells could also be purchased using real money. So the game was a very anti “pay-to-win” layout.
 
+<br><br>
+### 🎨 Sword Skins
+This was the first shop feature that I developed. This feature is cosmetic for all players and serves no in-game purpose. Like maps, many people volunteered to help create different skins as the game gained traction. A player can unlock skins by opening in-game chests using Bells or ROBUX. Unique skins could also be unlocked using twitter codes I would release throughout development. More info on Chests is below. At the end of the game’s life, there was a total of 30 different sword skins that you were able to unlock.
 
 <br><br>
 ### 🐾 Player Trails
-
-
+Player Trails is a shop feature where I experimented with a player’s gameplay. I made trails have a unique element to strengthen or diminish your blade buffs. More info on Blade Buffs is below. For example, equipping a trail could increase your player’s speed by two, but to balance that out, it would diminish a player’s sword damage by 1. Thus, not giving the player a natural advantage since they will balance out. Players can get trails with in-game chests.
 <br><br>
-### 🐶 Pets
 
+### 🐶 Pets
+I wanted Bells to have more extensive uses than to unlock chests. With that in mind, I made the code for the pet itself, and I thought it would be a great addition to the game. Players can buy pets outright using Bells, and they will follow you around in-game. This addition was the first time that I introduced seasonal items. For example, I made a jack-o-lantern pet that the player could only buy in October. I think this feature gave a nice roundedness to the in-game shop.
 
 <br><br>
 ### 🎁 Chests
-
+Chests are the only way to unlock sword skins and player trails. Players can buy chests using in-game currency or directly using ROBUX. I had multiple chests over the game’s lifetime that featured different skins and trails that anyone could unlock. When a chest is “unlocked,” the skin or trail you receive is random, which the game decides. For example, some items are rarer than others. Similar concepts are used when unlocking trails. 
 
 <br><br>
 ### 📈 Blade Buffs
+Blade buffs used a different currency than all of the features listed above. Blade buffs was a mini sub-shop where you could upgrade your player’s power in-game. This sub-shop featured three categories to buy from, Player Speed, Sword Swing Time, and Damage. The Player’s Speed and Sword Damage was two Gems, and the Sword Swing Time cost four Gems to upgrade.
 
+<br><br><br>
+## 💸 How I Made Money
+Though I didn’t make much money, I did profit a little. Whenever someone spent ROBUX to buy an in-game item, I would receive around 80% of that purchase, and ROBLOX took the other 20%. For example, the Earth Chest has keys that cost nine ROBUX each. I would receive seven in my account, and ROBLOX would take the other two. <br><br>
+
+In Outrageous Blades, players could also buy Bells directly using ROBUX. This menu was also a considerable contribution to making some pocket cash. You can see the exchange rate below.
+<br><br>
+
+<img>
 
 <br><br>
-### 🔔 Buy Bells
+A couple of months before my game started to take off, ROBLOX released a new internal program called the Developer Exchange Program. In short, this allowed developers on the website to cash out ROBUX for real United States dollars.
 
 
 
 <br><br><br>
 ## 🔣 Other Features
 ### 💬 Custom GUI Chat
-
+In 2015, I did not consider ROBLOX’s chat feature to be the best at the time. So, I decided to make my chat from scratch ultimately. I wanted to have all of the existing features of ROBLOX’s chat, but I wanted it to be polished. The final product took a couple of months for me to get right as I would change small features over time, but overall, it turned out to be amazing!
 
 
 <br><br>
 ### 💽 Custom Player Database
-
+A database was something that I didn’t have any knowledge of before developing this game, so I dove in headfirst when learning how to do this. It took a lot of ROBLOX wiki articles, but I wanted to note it here. All of the player’s stats get saved using ROBLOX’s database system. I identified the players using their userID just in case they changed usernames. Stats like what skins you owned, what pets you owned, what trails you owned, your experience, how many Bells you had, what trails you had equipped, your blade buffs, and so much more all got saved using the database system script I made. Even today, I can still go into the game seven years later, and all of my old stats show up!
 
 
 <br><br>
 ### 🏅 Leveling System
-
-
+Leveling up was the only way players could get Gems within Outrageous Blades. In addition, players could use Gems in the Blade Buffs shop. The leveling system was extraordinarily cool since it was an excellent opportunity to experiment with user interface animations. A tremendous animation will come on the screen and congratulate you on leveling up when you level up.
+- Level 1-2: 250 Experience Per Level
+- Level 3-9: 500 Experience Per Level
+- Level 10-19: 1000 Experience Per Level
+- Level <20: 2500 Experience Per Level
 
 <br><br>
 ### 🎫 Twitter Codes
-
-
+When making this game, I had many goals in mind. One of the main goals was to make a name for me within the community. So, I created a Twitter to hopefully build a following which I can use for any future games I want to make. I would transfer my in-game ROBLOX audience over to Twitter using redeemable codes. Then, I would post a new code on Twitter that is redeemable to unlock in-game items. It worked very successfully since I had almost 3,000 followers when I put the last update within the game.
 
 <br><br>
 ### 🎮 XBOX Controller Support
-
+Close to the end of the game’s life, ROBLOX developed cross-platform capabilities. They introduced controller support within their game engine, and I immediately went out and bought an XBOX One controller with the money I made from the game. I started testing and coding it to be eligible for the select games they featured for the XBOX one. Unfortunately, I was not one of them, but it motivated me to give my full game controller support. His feature expanded my audience in the long run since people could play with a controller on their computer.
 
 
 <br><br><br>
@@ -180,4 +194,6 @@ Allowing the change of geography where users battle is the most straightforward 
 <p align="center">
   Copyright © Ethan Gutknecht 2021
 </p>
+
+
 
