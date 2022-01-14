@@ -85,7 +85,7 @@ In 2016, I made this game when I was 15 years old, and the total development tim
 	</tr>
 	<tr>
 		<td>
-			Global Script
+			Global Scripts
 		</td>
 		<td>
 			2,743
@@ -93,7 +93,7 @@ In 2016, I made this game when I was 15 years old, and the total development tim
 	</tr>
 	<tr>
 		<td>
-			Local Script
+			Local Scripts
 		</td>
 		<td>
 			6,021
@@ -101,7 +101,7 @@ In 2016, I made this game when I was 15 years old, and the total development tim
 	</tr>
 	<tr>
 		<td>
-			Module Script
+			Module Scripts
 		</td>
 		<td>
 			4,143
@@ -135,7 +135,7 @@ The traditional bracket was the first minigame. Think of this minigame as a larg
 
 <br><br>
 ### 👫 2 vs. 2 .vs 2
-This minigame was an exciting mode to implement. It creates three teams of two and puts them in a match together. The three teams will start on the left, middle, and right sides. The game will clearly label each pair in-game with green, blue, or red arrows above their heads. The last team standing wins 250 Bells and some in-game experience.
+This minigame was an exciting mode to implement. It creates three teams of two with random players and puts them in a match together. The three teams will start on the left, middle, and right sides. The game will clearly label each pair in-game with green, blue, or red arrows above their heads. The last team standing wins 250 Bells and some in-game experience.
 
 <br><br>
 ### 💪 Juggernaut 
@@ -241,11 +241,11 @@ As stated earlier, you could unlock [chests](https://github.com/ethangutknecht/O
 </p>
 
 #### 🟨 Gold
-Gold was a “Premium” status players could buy for the game. The pass cost 350 ROBUX and was also a one-time purchase. This status gave players a yellow chat tag and showed off they had Gold and some shop discounts.
+Gold was a “Premium” status players could buy for the game. The pass cost 350 ROBUX and was also a one-time purchase. This status gave players a yellow "Gold" tag in the [in-game chat](https://github.com/ethangutknecht/Outrageous-Blades#-custom-gui-chat) and showed off they had Gold and some shop discounts.
 <br>
 
 #### 🔔 Buying Bells
-In Outrageous Blades, players could also buy Bells directly using ROBUX. This menu was also a considerable contribution to making some pocket cash. You can see the exchange rate below.
+In Outrageous Blades, players could also buy Bells directly using ROBUX. This menu was also a considerable contribution to making some pocket cash. The exchange rate would become better the more bells the player would purchase.
 <br>
 
 <p align="center">
@@ -278,11 +278,12 @@ A database was something that I didn’t have any knowledge of before developing
 
 <br><br>
 ### 🏅 Leveling System
-Leveling up was the only way players could get Gems within Outrageous Blades. In addition, players could use Gems in the [Blade Buffs](https://github.com/ethangutknecht/Outrageous-Blades/blob/main/README.md#-blade-buffs) shop. The leveling system was extraordinarily cool since it was an excellent opportunity to experiment with user interface animations. For example, a fantastic animation will come on the screen and congratulate you on leveling up when you level up. Every time you level up, you would get one Gem.
+Leveling up was the only way players could get Gems within Outrageous Blades. In addition, players could use Gems in the [Blade Buffs](https://github.com/ethangutknecht/Outrageous-Blades/blob/main/README.md#-blade-buffs) shop. The leveling system was extraordinarily cool since it was an excellent opportunity to experiment with user interface animations. For example, a fantastic animation will come on the screen and congratulate you on leveling up when you level up. Every time you level up, you would get one Gem. The leveling system also allowed me to have badges, which act like achievements, in the game. Every five levels, there would be an achievement awarded to you. These achievements show up on the user’s profile on ROBLOX's website.
+
 - Level 1-2: 250 Experience Per Level
 - Level 3-9: 500 Experience Per Level
 - Level 10-19: 1000 Experience Per Level
-- Level <20: 2500 Experience Per Level
+- Level 20-∞: 2500 Experience Per Level
 <br>
 
 <p align="center">
@@ -291,7 +292,7 @@ Leveling up was the only way players could get Gems within Outrageous Blades. In
 
 <br><br>
 ### 🎫 Twitter Codes
-When making this game, I had many goals in mind. One of the main goals was to make a name for me within the community. So, I created a Twitter to hopefully build a following which I can use for any future games I want to make. I would transfer my in-game ROBLOX audience over to Twitter using redeemable codes. Then, I would post a new code on Twitter that is redeemable to unlock in-game items. It worked very successfully since I had almost 3,000 followers when I put the last update within the game.
+When making this game, I had many goals in mind. One of the main goals was to make a name for me within the community. So, I created a Twitter to hopefully build a following which I can use for any future games I want to make. I would transfer my in-game ROBLOX audience over to Twitter using redeemable codes. Then, I would post a new code on Twitter that is redeemable to unlock in-game items. It worked very successfully since I had almost 3,000 followers when I put the last update within the game. [Here is a link to my ROBLOX Twitter profile that I used! (twitter.com/Oaktin) ](https://twitter.com/Oaktin)
 <br>
 
 <p align="center">
@@ -327,5 +328,7 @@ Close to the end of the game’s life, ROBLOX developed cross-platform capabilit
   Copyright © Ethan Gutknecht 2016-2022<br>
   Any redistribution without authorization is strictly prohibited.
 </p>
+
+
 
 
