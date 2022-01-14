@@ -279,12 +279,8 @@ Close to the end of the game’s life, ROBLOX developed cross-platform capabilit
 - - - -
 
 <p align="center">
-  Copyright © Ethan Gutknecht 2016-2021
+  Copyright © Ethan Gutknecht 2016-2022<br>
+  Any redistribution without authorization is strictly prohibited.
 </p>
-
-
-
-
-
 
 
