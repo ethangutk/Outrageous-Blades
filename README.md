@@ -112,7 +112,7 @@ Allowing the change of geography where users battle is the most straightforward 
 
 <br><br><br>
 ## 💰 Shop Items
-When making this game, I wanted to make the shop very fair. In some games I played before developing the shop, the shop ruined the whole gameplay experience based on the in-game powerups that players could buy. So with that in mind, I wanted to make the game fair for everyone. The stuff you could buy using Bells, purchased using ROBUX were all cosmetic items. Robux could be bought on ROBLOX’s website using real money; thus, you could convert real cash into in-game Bells. Everything else that upgraded your player had to be purchased using a currency associated with the in-game experience, also known as Gems. Thus, in short, Gems and Bells are earned by playing the game, but Bells could also be purchased using real money. So the game was a very anti “pay-to-win” layout.
+When making this game, I wanted to make the shop very fair. In some games I played before developing the shop, the shop ruined the whole gameplay experience based on the in-game powerups that players could buy. So with that in mind, I wanted to make the game fair for everyone. The stuff you could buy using Bells, purchased using ROBUX were all cosmetic items. ROBUX could be purchased on ROBLOX’s website using real money; thus, you could convert real cash into in-game Bells. Everything else that upgraded your player had to be purchased using a currency associated with the in-game experience, also known as Gems. Thus, in short, Gems and Bells are earned by playing the game, but Bells could also be purchased using real money. So the game was a very anti “pay-to-win” layout.
 
 <br><br>
 ### 🎨 Sword Skins
@@ -136,16 +136,19 @@ Blade buffs used a different currency than all of the features listed above. Bla
 
 <br><br><br>
 ## 💸 How I Made Money
-Though I didn’t make much money, I did profit a little. Whenever someone spent ROBUX to buy an in-game item, I would receive around 80% of that purchase, and ROBLOX took the other 20%. For example, the Earth Chest has keys that cost nine ROBUX each. I would receive seven in my account, and ROBLOX would take the other two. <br><br>
-
+Though I didn’t make much money, I did profit a little. Whenever someone spent ROBUX to buy an in-game item, I would receive around 80% of that purchase, and ROBLOX took the other 20%. For example, the Earth Chest has keys that cost nine ROBUX each. I would receive seven in my account, and ROBLOX would take the other two. A couple of months before my game started to take off, ROBLOX released a new internal program called the Developer Exchange Program. In short, this allowed developers on the website to cash out ROBUX for real United States dollars.
+<br>
+#### 🗝 Chest Keys
+As stated earlier, you were able to unlock chests using keys. Some of the keys that the game offered, you could buy using ROBUX. For example, one of the chests with many player trails costs nine ROBUX per key.
+<br>
+#### 🔔 Buying Bells
 In Outrageous Blades, players could also buy Bells directly using ROBUX. This menu was also a considerable contribution to making some pocket cash. You can see the exchange rate below.
-<br><br>
-
-<img>
-
-<br><br>
-A couple of months before my game started to take off, ROBLOX released a new internal program called the Developer Exchange Program. In short, this allowed developers on the website to cash out ROBUX for real United States dollars.
-
+<br>
+#### 💃 Emotes
+Emotes as something I added towards the end of the game’s lifetime. Emotes were animations that you could buy with a one-time purchase for your character to perform a player animation. For example, the game’s emotes included dancing, clapping, working out, and more. These emote were low-cost to the player, which let tons of people purchase them.
+<br>
+#### 🟨 Gold
+Gold was a “Premium” status players could buy for the game. The pass cost 350 ROBUX and was also a one-time purchase. This status gave players a yellow chat tag and showed off they had Gold and some shop discounts.
 
 
 <br><br><br>
@@ -161,7 +164,7 @@ A database was something that I didn’t have any knowledge of before developing
 
 <br><br>
 ### 🏅 Leveling System
-Leveling up was the only way players could get Gems within Outrageous Blades. In addition, players could use Gems in the Blade Buffs shop. The leveling system was extraordinarily cool since it was an excellent opportunity to experiment with user interface animations. A tremendous animation will come on the screen and congratulate you on leveling up when you level up.
+Leveling up was the only way players could get Gems within Outrageous Blades. In addition, players could use Gems in the Blade Buffs shop. The leveling system was extraordinarily cool since it was an excellent opportunity to experiment with user interface animations. For example, a fantastic animation will come on the screen and congratulate you on leveling up when you level up. Every time you level up, you would get one Gem.
 - Level 1-2: 250 Experience Per Level
 - Level 3-9: 500 Experience Per Level
 - Level 10-19: 1000 Experience Per Level
