@@ -230,7 +230,7 @@ Blade buffs used a different currency than all of the features listed above. Bla
 
 <br><br><br>
 ## 💸 How I Made Money
-Though I didn’t make much money, I did profit a little. Whenever someone spent ROBUX to buy an in-game item, I would receive around 80% of that purchase, and ROBLOX took the other 20%. For example, the Earth Chest has keys that cost nine ROBUX each. I would receive seven in my account, and ROBLOX would take the other two. A couple of months before my game started to take off, ROBLOX released a new internal program called the Developer Exchange Program. In short, this allowed developers on the website to cash out ROBUX for real United States dollars.
+Though I didn’t make much money, I did profit a little. Whenever someone spent ROBUX to buy an in-game item, I would receive around 80% of that purchase, and ROBLOX took the other 20%. For example, the Earth Chest has keys that cost nine ROBUX each. I would receive seven in my account, and ROBLOX would take the other two. A couple of months before my game started to take off, ROBLOX released the [Developer Exchange Program](https://en.help.roblox.com/hc/en-us/articles/203314100-Developer-Exchange-DevEx-FAQs). In short, this allowed developers on the website to cash out ROBUX for United States dollars. The current exchange rate is $0.0035 U.S. Dollars per earned Robux. You must have a minimum of 100,000 Robux to cash out with the program.
 <br>
 #### 🗝 Chest Keys
 As stated earlier, you could unlock [chests](https://github.com/ethangutknecht/Outrageous-Blades/blob/main/README.md#-chests) using keys. In addition, some of the keys that the game offered, you could buy using ROBUX. For example, one of the chests with many player trails costs nine ROBUX per key.
