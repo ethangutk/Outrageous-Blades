@@ -293,9 +293,11 @@ Leveling up was the only way players could get Gems within Outrageous Blades. In
 <br><br>
 ### 🎫 Twitter Codes
 When making this game, I had many goals in mind. One of the main goals was to make a name for me within the community. So, I created a Twitter to hopefully build a following which I can use for any future games I want to make. I would transfer my in-game ROBLOX audience over to Twitter using redeemable codes. Then, I would post a new code on Twitter that is redeemable to unlock in-game items. It worked very successfully since I had almost 3,000 followers when I put the last update within the game. [Here is a link to my ROBLOX Twitter profile that I used! (twitter.com/Oaktin) ](https://twitter.com/Oaktin)
-<br>
+<br><br>
 
 <p align="center">
+	<img src="https://github.com/ethangutknecht/Outrageous-Blades/blob/main/Images/TwitterCodes2.png?raw=true">
+	<br><br>
 	<img src="https://github.com/ethangutknecht/Outrageous-Blades/blob/main/Images/TwitterCodes1.png?raw=true">
 </p>
 
