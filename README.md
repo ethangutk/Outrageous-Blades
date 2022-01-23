@@ -1,6 +1,8 @@
 <h6 >
 	<a href="https://github.com/ethangutknecht">↩ Back To Ethan Gutknecht's Profile</a>
 </h6>
+
+
 <h1 align="center">⚔ Outrageous Blades</h1><br><br>
 <table align="center">
 	<tr>
@@ -128,7 +130,7 @@ In 2016, I made this game when I was 15 years old, and the total development tim
 
 ## 🕹 Different Types Of Minigames
 ### 👑 Traditional Bracket
-The traditional bracket was the first minigame. Think of this minigame as a large bracket. We take all the people in the game and face them up against each other in pairs.  The winner of that pair will move on to the next round. This process will continue until the final match up where a winner will be declared. This game mode had to have a lot of error handling. For example, if someone leaves the game, if there are an odd number of players, or if someone leaves the match. This game mode shaped the rest of the game modes below.
+The traditional bracket was the first minigame. Think of this minigame as a large bracket. We take all the people in the game and face them up against each other in pairs.  The winner of that pair will move on to the next round. This process will continue until the final match-up, where a winner will be declared. This game mode had to have a lot of error handling. For example, if someone leaves the game, if there are an odd number of players, or if someone leaves the match. This game mode shaped the rest of the game modes below.
 <br>
 
 <p align="center">
@@ -150,7 +152,7 @@ Free for all is pretty self-explanatory; all the players acquire the same health
 
 <br><br>
 ### 💣 Time Bomb
-The time bomb is by far my most favorite minigame within this game. This game is a swift hot potato game. One guy has the time bomb, and he must hand it off to another person before the 15 seconds is up. The person carrying the bomb will turn into a TNT to let the other players know he is the current holder. The person that last had the time bomb will be invincible until the following person hands it off to someone else. The invincibility stops players from handing the bomb back and forth. The game will continue until there are three players left in the game. The final three receive 300 Bells and 50 experience for not being eliminated.
+The time bomb is by far my favorite minigame within this game. This game is a swift hot potato game. One guy has the time bomb, and he must hand it off to another person before the 15 seconds is up. The person carrying the bomb will turn into a TNT to let the other players know he is the current holder. The person that last had the time bomb will be invincible until the following person hands it off to someone else. The invincibility stops players from handing the bomb back and forth. The game will continue until there are three players left in the game. The final three receive 300 Bells and 50 experience for not being eliminated.
 <br>
 
 <p align="center">
@@ -333,7 +335,3 @@ Close to the end of the game’s life, ROBLOX developed cross-platform capabilit
   Copyright © Ethan Gutknecht 2016-2022<br>
   Any redistribution without authorization is strictly prohibited.
 </p>
-
-
-
-
