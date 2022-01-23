@@ -1,4 +1,4 @@
-<h6 >
+<h6>
 	<a href="https://github.com/ethangutknecht">↩ Back To Ethan Gutknecht's Profile</a>
 </h6>
 
@@ -319,19 +319,19 @@ Close to the end of the game’s life, ROBLOX developed cross-platform capabilit
 <br><br><br>
 
 - - - -
-<p align="center">
+<h6 align="center">
 	<a align="center" href="https://github.com/ethangutknecht/Outrageous-Blades#-outrageous-blades">⬆ Back To The Top </a>
-</p>
+</h6>
 
 - - - -
 
-<p align="center">
+<h6 align="center">
 	<a href="https://github.com/ethangutknecht">↩ Back To Ethan Gutknecht's Profile</a>
-</p>
+</h6>
 
 - - - -
 
-<p align="center">
+<h6 align="center">
   Copyright © Ethan Gutknecht 2016-2022<br>
   Any redistribution without authorization is strictly prohibited.
-</p>
+</h6>
