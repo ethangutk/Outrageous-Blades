@@ -1,4 +1,4 @@
-<h6>
+<h6 >
 	<a href="https://github.com/ethangutknecht">↩ Back To Ethan Gutknecht's Profile</a>
 </h6>
 
@@ -67,7 +67,7 @@ Even six years later, getting to the front page is still an outstanding achievem
 </p>
 
 #### Game Visits
-I had an overwhelming amount of people play the game, enough people for me to even understand as a young man in my computer science career. Total, we had 360,000 people play between 2015 and 2016. In addition, there was a total of 177,000 unique players joining the game.
+I had an overwhelming amount of people play the game, enough people for me to even understand as a young man in my computer science career. In total, I had 360,000 people play between 2015 and 2016. In addition, there was a total of 177,000 unique players joining the game.
 
 <p align="center">
 	<img src="https://github.com/ethangutknecht/Outrageous-Blades/blob/main/Images/Achievements_2.png?raw=true">
@@ -76,7 +76,7 @@ I had an overwhelming amount of people play the game, enough people for me to ev
 <br><br><br>
 
 ## ℹ About The Game
-In 2016, I made this game when I was 15 years old, and the total development time was around 5-6 months. It was an addition to my "Outrageous" game series that I had on ROBLOX at the time.  This game is a highly interactive and intense battle. The game features seven minigames and thirty-two maps involving hundreds of ways minigames can play out. Players will earn in-game currency to spend on different types of cosmetic items, like sword skins, player trails, pets, and chests with random items. The more a player will battle, the more in-game experience they will collect. Leveling up your character will give opportunities to upgrade how strong the player will be in battle. The cartoon-style adventure gives players a fun experience making it easy to play for hours!<br><br>
+In 2016, I made this game when I was 15 years old, and the total development time was around 5-6 months. It was an addition to my "Outrageous" game series that I had on ROBLOX.  This game is a highly interactive and intense battle. The game features seven minigames and thirty-two maps involving hundreds of ways minigames can play out. Players will earn in-game currency to spend on cosmetic items, like sword skins, player trails, pets, and chests with random items. The more a player will battle, the more in-game experience they will collect. Leveling up your character will give opportunities to upgrade how strong the player will be in battle. The cartoon-style adventure gives players a fun experience making it easy to play for hours!<br><br>
 
 <h6 align="center">(excluding blank and duplicate lines)</h6>
 <table align="center">
@@ -144,11 +144,11 @@ This minigame was an exciting mode to implement. It creates three teams of two w
 
 <br><br>
 ### 💪 Juggernaut 
-Juggernaut is one of the most remarkable game modes I came across when researching. One random player has to face every other player in the game; this player is called the Juggernaut. The Juggernaut’s sword will have the same power as every other player’s sword, but his health will equal the health of all the players he is facing. So, for example, if the juggernaut is facing 11 players, then his health will be 1100 (11 players x 100hp = 1100hp). Super fun game mode to participate and spectate. The game clock will also reflect how many people are in the game. For example, if there are 12 people in the game, there will be 4 minutes on the clock (20 seconds * 12 players = 240 seconds = 4 minutes).
+Juggernaut is one of the most remarkable game modes I came across when researching. One random player has to face every other player in the game; this player is called the Juggernaut. The Juggernaut’s sword will have the same power as every other player’s sword, but his health will equal the health of all the players he is facing. So, for example, if the juggernaut is facing 11 players, then his health will be 1100 (11 players x 100hp = 1100hp). Super fun game mode to participate in and spectate. The game clock will also reflect how many people are in the game. For example, if there are 12 people in the game, there will be 4 minutes on the clock (20 seconds * 12 players = 240 seconds = 4 minutes).
 
 <br><br>
 ### 🧍‍ Free For All
-Free for all is pretty self-explanatory; all the players acquire the same health and sword. Then, the players teleport within the map in random locations. The last player to be standing wins the round. The winner will receive 1000 Bells and 250 experience.
+Free for all is pretty self-explanatory; all the players acquire the same health and sword. Then, the players teleport within the map to random locations. The last player to be standing wins the round. The winner will receive 1000 Bells and 250 experience.
 
 <br><br>
 ### 💣 Time Bomb
@@ -175,7 +175,7 @@ Kill the carrier is a different type of minigame. Everyone is out to get you, an
 
 <br><br><br>
 ## 🗺 Different Types Of Maps
-Allowing the change of geography where users battle is the most straightforward added feature that gives the game a unique experience. As the game started to gain popularity, I got tons of messages from people saying they wanted to make maps for Outrageous Blades. At the end of the game’s development, I ended with 32 maps created mainly by users other than me, which is neat. The game would not be what it was without the help from the generous people who developed maps for me. Different maps are the best feature that throws a wrench in the gearbox for gameplay strategies. 
+Allowing the change of geography where users battle is the most straightforward added feature that gives the game a unique experience. As the game started to gain popularity, I got tons of messages from people saying they wanted to make maps for Outrageous Blades. At the end of the game’s development, I ended with 32 maps created mainly by users other than me, which is neat. The game would not be what it was without the help of the generous people who developed maps for me. Different maps are the best feature that throws a wrench in the gearbox for gameplay strategies. 
 <br>
 
 <p align="center">
@@ -185,11 +185,11 @@ Allowing the change of geography where users battle is the most straightforward 
 
 <br><br><br>
 ## 💰 Shop Items
-When making this game, I wanted to make the shop very fair. In some games I played before developing the shop, the shop ruined the whole gameplay experience based on the in-game powerups that players could buy. So with that in mind, I wanted to make the game fair for everyone. The stuff you could buy using Bells, which could also be purchased using ROBUX, were all cosmetic items. ROBUX could be bought on ROBLOX’s website using real money; thus, you could convert real cash into in-game Bells. Everything else that upgraded your player had to be purchased using a currency associated with the in-game experience, also known as Gems. Thus, in short, Gems and Bells are earned by playing the game, but Bells could also be purchased using real money. So the game was a very anti “pay-to-win” layout.
+When making this game, I wanted to make the shop very fair. In some games I played before developing the shop, the shop ruined the whole gameplay experience based on the in-game powerups that players could buy. So with that in mind, I wanted to make the game fair for everyone. The stuff you could buy using Bells, which could also be purchased using ROBUX, were all cosmetic items. ROBUX could be purchased on ROBLOX’s website using real money; thus, you could convert real cash into in-game Bells. Everything else that upgraded your player had to be purchased using a currency associated with the in-game experience, also known as Gems. Thus, in short, Gems and Bells are earned by playing the game, but Bells could also be purchased using real money. So the game was a very anti “pay-to-win” layout.
 
 <br><br>
 ### 🎨 Sword Skins
-This was the first shop feature that I developed. This feature is cosmetic for all players and serves no in-game purpose. Like maps, many people volunteered to help create different skins as the game gained traction. A player can unlock skins by opening in-game [chests](https://github.com/ethangutknecht/Outrageous-Blades/blob/main/README.md#-chests) using Bells or ROBUX. Unique skins could also be unlocked using [Twitter codes](https://github.com/ethangutknecht/Outrageous-Blades/blob/main/README.md#-twitter-codes) I would release throughout development. At the end of the game’s life, there was a total of 30 different sword skins that you were able to unlock.
+This was the first shop feature that I developed. This feature is cosmetic for all players and serves no in-game purpose. Like maps, many people volunteered to help create different skins as the game gained traction. A player can unlock skins by opening in-game [chests](https://github.com/ethangutknecht/Outrageous-Blades/blob/main/README.md#-chests) using Bells or ROBUX. Unique skins could also be unlocked using [Twitter codes](https://github.com/ethangutknecht/Outrageous-Blades/blob/main/README.md#-twitter-codes) I would release throughout development. At the end of the game’s life, there were 30 different sword skins that you were able to unlock.
 <br>
 
 <p align="center">
@@ -269,7 +269,7 @@ Emotes as something I added towards the end of the game’s lifetime. Emotes wer
 <br><br><br>
 ## 🔣 Other Features
 ### 💬 Custom GUI Chat
-In 2015, I did not consider ROBLOX’s chat feature to be the best at the time. So, I decided to make my in-game chat from scratch. I wanted to have all of the existing features of ROBLOX’s chat, but I wanted it to be polished. The final product took a couple of months for me to get right as I would change small features over time, but overall, it turned out to be amazing!
+In 2015, I did not consider ROBLOX’s chat feature to be the best at the time. So, I decided to make my in-game chat from scratch. I wanted to have all of the existing features of ROBLOX’s chat, but I wanted it to be polished. The final product took a couple of months for me to get right as I would change small features over time, but overall, it was amazing!
 <br>
 
 <p align="center">
@@ -297,7 +297,7 @@ Leveling up was the only way players could get Gems within Outrageous Blades. In
 
 <br><br>
 ### 🎫 Twitter Codes
-When making this game, I had many goals in mind. One of the main goals was to make a name for me within the community. So, I created a Twitter to hopefully build a following which I can use for any future games I want to make. I would transfer my in-game ROBLOX audience over to Twitter using redeemable codes. Then, I would post a new code on Twitter that is redeemable to unlock in-game items. It worked very successfully since I had almost 3,000 followers when I put the last update within the game. [Here is a link to my ROBLOX Twitter profile that I used! (twitter.com/Oaktin) ](https://twitter.com/Oaktin)
+When making this game, I had many goals in mind. One of the main goals was to make a name for myself within the community. So, I created a Twitter to hopefully build a following which I can use for any future games I want to make. I would transfer my in-game ROBLOX audience over to Twitter using redeemable codes. Then, I would post a new code on Twitter that is redeemable to unlock in-game items. It worked very successfully since I had almost 3,000 followers when I put the last update within the game. [Here is a link to my ROBLOX Twitter profile that I used! (twitter.com/Oaktin) ](https://twitter.com/Oaktin)
 <br><br>
 
 <p align="center">
@@ -308,7 +308,7 @@ When making this game, I had many goals in mind. One of the main goals was to ma
 
 <br><br>
 ### 🎮 XBOX Controller Support
-Close to the end of the game’s life, ROBLOX developed cross-platform capabilities. They introduced controller support within their game engine, and I immediately went out and bought an XBOX One controller with the money I made from the game. I started testing and coding it to be eligible for the select games they featured for the XBOX one. Unfortunately, I was not one of them, but it motivated me to give my full game controller support. His feature expanded my audience in the long run since people could play with a controller on their computer.
+Close to the end of the game’s life, ROBLOX developed cross-platform capabilities. They introduced controller support within their game engine, and I immediately went out and bought an XBOX One controller with the money I made from the game. I started testing and coding it to be eligible for the select games they featured for the XBOX one. Unfortunately, I was not one of them, but it motivated me to give my game complete controller support. His feature expanded my audience in the long run since people could play with a controller on their computer.
 <br>
 
 <p align="center">
@@ -319,19 +319,20 @@ Close to the end of the game’s life, ROBLOX developed cross-platform capabilit
 <br><br><br>
 
 - - - -
-<h6 align="center">
+<p align="center">
 	<a align="center" href="https://github.com/ethangutknecht/Outrageous-Blades#-outrageous-blades">⬆ Back To The Top </a>
-</h6>
+</p>
 
 - - - -
 
-<h6 align="center">
+<p align="center">
 	<a href="https://github.com/ethangutknecht">↩ Back To Ethan Gutknecht's Profile</a>
-</h6>
+</p>
 
 - - - -
 
-<h6 align="center">
+<p align="center">
   Copyright © Ethan Gutknecht 2016-2022<br>
   Any redistribution without authorization is strictly prohibited.
-</h6>
+</p>
+
