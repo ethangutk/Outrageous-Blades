@@ -12,37 +12,37 @@
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/ethangutknecht/Outrageous-Blades#-notable-acheviements">🏆 Notable Acheviements</a><br><br>
-			<a href="https://github.com/ethangutknecht/Outrageous-Blades#%E2%84%B9-about-the-game">ℹ About The Game</a><br><br>
-			<a href="https://github.com/ethangutknecht/Outrageous-Blades#-different-types-of-minigames">🕹 Different Types Of Minigames</a>
+			<a href="#-notable-acheviements">🏆 Notable Acheviements</a><br><br>
+			<a href="#%E2%84%B9-about-the-game">ℹ About The Game</a><br><br>
+			<a href="#-different-types-of-minigames">🕹 Different Types Of Minigames</a>
 			<ul>
-				<li><a href="https://github.com/ethangutknecht/Outrageous-Blades/blob/main/README.md#-traditional-bracket">👑 Traditional Bracket</a></li>
-				<li><a href="https://github.com/ethangutknecht/Outrageous-Blades/blob/main/README.md#-2-vs-2-vs-2">👫 2 vs. 2 .vs 2</a></li>
-				<li><a href="https://github.com/ethangutknecht/Outrageous-Blades/blob/main/README.md#-juggernaut">💪 Juggernaut</a></li>
-				<li><a href="https://github.com/ethangutknecht/Outrageous-Blades/blob/main/README.md#-free-for-all">🧍‍ Free For All</a></li>
-				<li><a href="https://github.com/ethangutknecht/Outrageous-Blades/blob/main/README.md#-time-bomb">💣 Time Bomb</a></li>
-				<li><a href="https://github.com/ethangutknecht/Outrageous-Blades/blob/main/README.md#-team-deathmatch">👨‍👩‍👧‍👦 Team Deathmatch</a></li>
-				<li><a href="https://github.com/ethangutknecht/Outrageous-Blades/blob/main/README.md#-kill-the-carrier">🎯 Kill The Carrier</a></li>
+				<li><a href="#-traditional-bracket">👑 Traditional Bracket</a></li>
+				<li><a href="#-2-vs-2-vs-2">👫 2 vs. 2 .vs 2</a></li>
+				<li><a href="#-juggernaut">💪 Juggernaut</a></li>
+				<li><a href="#-free-for-all">🧍‍ Free For All</a></li>
+				<li><a href="#-time-bomb">💣 Time Bomb</a></li>
+				<li><a href="#-team-deathmatch">👨‍👩‍👧‍👦 Team Deathmatch</a></li>
+				<li><a href="#-kill-the-carrier">🎯 Kill The Carrier</a></li>
 			</ul>
-			<a href="https://github.com/ethangutknecht/Outrageous-Blades/blob/main/README.md#-different-types-of-maps">🗺 Different Types Of Maps</a><br><br>
+			<a href="#-different-types-of-maps">🗺 Different Types Of Maps</a><br><br>
 		</td>
 		<td>
-			<a href="https://github.com/ethangutknecht/Outrageous-Blades/blob/main/README.md#-shop-items">💰 Shop Items</a>
+			<a href="#-shop-items">💰 Shop Items</a>
 			<ul>
-				<li><a href="https://github.com/ethangutknecht/Outrageous-Blades/blob/main/README.md#-sword-skins">🎨 Sword Skins</a></li>
-				<li><a href="https://github.com/ethangutknecht/Outrageous-Blades/blob/main/README.md#-player-trails">🐾 Player Trails</a></li>
-				<li><a href="https://github.com/ethangutknecht/Outrageous-Blades/blob/main/README.md#-pets">🐶 Pets</a></li>
-				<li><a href="https://github.com/ethangutknecht/Outrageous-Blades/blob/main/README.md#-chests">🎁 Chests</a></li>
-				<li><a href="https://github.com/ethangutknecht/Outrageous-Blades/blob/main/README.md#-blade-buffs">📈 Blade Buffs</a></li>
+				<li><a href="#-sword-skins">🎨 Sword Skins</a></li>
+				<li><a href="#-player-trails">🐾 Player Trails</a></li>
+				<li><a href="#-pets">🐶 Pets</a></li>
+				<li><a href="#-chests">🎁 Chests</a></li>
+				<li><a href="#-blade-buffs">📈 Blade Buffs</a></li>
 			</ul>
-			<a href="https://github.com/ethangutknecht/Outrageous-Blades/blob/main/README.md#-how-i-made-money">💸 How I Made Money</a><br><br>
-			<a href="https://github.com/ethangutknecht/Outrageous-Blades/blob/main/README.md#-other-features">🔣 Other Features</a>
+			<a href="#-how-i-made-money">💸 How I Made Money</a><br><br>
+			<a href="#-other-features">🔣 Other Features</a>
 			<ul>
-				<li><a href="https://github.com/ethangutknecht/Outrageous-Blades/blob/main/README.md#-custom-gui-chat">💬 Custom GUI Chat</a></li>
-				<li><a href="https://github.com/ethangutknecht/Outrageous-Blades/blob/main/README.md#-custom-player-database">💽 Custom Player Database</a></li>
-				<li><a href="https://github.com/ethangutknecht/Outrageous-Blades/blob/main/README.md#-leveling-system">🏅 Leveling System</a></li>
-				<li><a href="https://github.com/ethangutknecht/Outrageous-Blades/blob/main/README.md#-twitter-codes">🎫 Twitter Codes</a></li>
-				<li><a href="https://github.com/ethangutknecht/Outrageous-Blades/blob/main/README.md#-xbox-controller-support">🎮 XBOX Controller Support</a></li>
+				<li><a href="#-custom-gui-chat">💬 Custom GUI Chat</a></li>
+				<li><a href="#-custom-player-database">💽 Custom Player Database</a></li>
+				<li><a href="#-leveling-system">🏅 Leveling System</a></li>
+				<li><a href="#-twitter-codes">🎫 Twitter Codes</a></li>
+				<li><a href="#-xbox-controller-support">🎮 XBOX Controller Support</a></li>
 			</ul>
 		</td>
 	</tr>
@@ -175,7 +175,7 @@ Kill the carrier is a different type of minigame. Everyone is out to get you, an
 
 <br><br><br>
 ## 🗺 Different Types Of Maps
-Allowing the change of geography where users battle is the most straightforward added feature that gives the game a unique experience. As the game started to gain popularity, I got tons of messages from people saying they wanted to make maps for Outrageous Blades. At the end of the game’s development, I ended with 32 maps created mainly by users other than me, which is neat. The game would not be what it was without the help of the generous people who developed maps for me. Different maps are the best feature that throws a wrench in the gearbox for gameplay strategies. 
+Allowing the change of geography where users battle is the most straightforward added feature that gives the game a unique experience. As the game started to gain popularity, I got tons of messages from people saying they wanted to make maps for Outrageous Blades. At the end of the game’s development, I ended with 32 maps created mainly by users other than me, which is neat. The game would not be what it was without the help of the generous people who developed maps. Different maps are the best feature that throws a wrench in the gearbox for gameplay strategies. 
 <br>
 
 <p align="center">
@@ -269,7 +269,7 @@ Emotes as something I added towards the end of the game’s lifetime. Emotes wer
 <br><br><br>
 ## 🔣 Other Features
 ### 💬 Custom GUI Chat
-In 2015, I did not consider ROBLOX’s chat feature to be the best at the time. So, I decided to make my in-game chat from scratch. I wanted to have all of the existing features of ROBLOX’s chat, but I wanted it to be polished. The final product took a couple of months for me to get right as I would change small features over time, but overall, it was amazing!
+In 2015, I did not consider ROBLOX’s chat feature to be the best at the time. So, I decided to make my in-game chat from scratch. I wanted to have all of the existing features of ROBLOX’s chat, but I wanted it to be polished. The final product took a couple of months to get right as I would change small features over time, but overall, it was amazing!
 <br>
 
 <p align="center">
@@ -320,7 +320,7 @@ Close to the end of the game’s life, ROBLOX developed cross-platform capabilit
 
 - - - -
 <p align="center">
-	<a align="center" href="https://github.com/ethangutknecht/Outrageous-Blades#-outrageous-blades">⬆ Back To The Top </a>
+	<a align="center" href="#-outrageous-blades">⬆ Back To The Top </a>
 </p>
 
 - - - -
@@ -335,4 +335,3 @@ Close to the end of the game’s life, ROBLOX developed cross-platform capabilit
   Copyright © Ethan Gutknecht 2016-2022<br>
   Any redistribution without authorization is strictly prohibited.
 </p>
-
