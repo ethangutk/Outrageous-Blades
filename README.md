@@ -12,7 +12,7 @@
 	</tr>
 	<tr>
 		<td>
-			<a href="#-notable-acheviements">🏆 Notable Acheviements</a><br><br>
+			<a href="#-notable-achievements">🏆 Notable Acheviements</a><br><br>
 			<a href="#%E2%84%B9-about-the-game">ℹ About The Game</a><br><br>
 			<a href="#-different-types-of-minigames">🕹 Different Types Of Minigames</a>
 			<ul>
@@ -50,7 +50,7 @@
 
 <br><br><br>
 <br><br><br>
-## 🏆 Notable Acheviements
+## 🏆 Notable Achievements
 #### ROBLOX Admins
 ROBLOX admins are employees at ROBLOX headquarters. They develop and work on the game engine, website, avatars, and events. Producing Outrageous Blades, I had many employees play and give constructive criticism. These people playing this game were a significant accomplishment since many of these people I looked up to as role models. Many of these people are still very notable people within the community.
 
@@ -297,7 +297,7 @@ Leveling up was the only way players could get Gems within Outrageous Blades. In
 
 <br><br>
 ### 🎫 Twitter Codes
-When making this game, I had many goals in mind. One of the main goals was to make a name for me within the community. So, I created a Twitter to hopefully build a following which I can use for any future games I want to make. I would transfer my in-game ROBLOX audience over to Twitter using redeemable codes. Then, I would post a new code on Twitter redeemable to unlock in-game items. It was successful since I had almost 3,000 followers when I put the last update within the game. [Here is a link to my ROBLOX Twitter profile that I used! (twitter.com/Oaktin) ](https://twitter.com/Oaktin)
+When making this game, I had many goals in mind. One of the main goals was to make a name for myself within the community. So, I created a Twitter to hopefully build a following which I can use for any future games I want to make. I would transfer my in-game ROBLOX audience over to Twitter using redeemable codes. Then, I would post a new code on Twitter redeemable to unlock in-game items. It was successful since I had almost 3,000 followers when I put the last update within the game. [Here is a link to my ROBLOX Twitter profile that I used! (twitter.com/Oaktin) ](https://twitter.com/Oaktin)
 <br><br>
 
 <p align="center">
@@ -335,4 +335,9 @@ Close to the end of the game’s life, ROBLOX developed cross-platform capabilit
   Copyright © Ethan Gutknecht 2016-2022<br>
   Any redistribution without authorization is strictly prohibited.
 </p>
+
+
+
+
+
 
