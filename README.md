@@ -60,7 +60,7 @@ ROBLOX admins are employees at ROBLOX headquarters. They develop and work on the
 <br>
 
 #### ROBLOX's "Front Page"
-Even six years later, getting to the front page is still an outstanding achievement. The "Front Page" is a term used in ROBLOX to represent the top games on the site at the time. The games with the most concurrent players will reach the top of the site. In 2014-2015, there was an area on the front page called the "Featured Section" where the only way to have your game come across that section was to have a ROBLOX Admin hand pick it and add it. On February 18th, 2016, a generous ROBLOX admin decided to feature my game in the "Featured Section.” The front page featured Outrageous Blades for about two months before ROBLOX employees took it off to allow new talent to show off their games!
+Even six years later, getting to the front page is still an outstanding achievement. The "Front Page" is a term used in ROBLOX to represent the top games on the site at the time. The games with the most concurrent players will reach the top of the site. In 2014-2015, there was an area on the front page called the "Featured Section" where the only way to have your game come across that section was to have a ROBLOX Admin hand-pick it and add it. On February 18th, 2016, a generous ROBLOX admin decided to feature my game in the "Featured Section.” The front page featured Outrageous Blades for about two months before ROBLOX employees took it off to allow new talent to show off their games!
 
 <p align="center">
 	<img src="https://github.com/ethangutknecht/Outrageous-Blades/blob/main/Images/Achievements_1.png?raw=true">	
@@ -152,7 +152,7 @@ Free for all is self-explanatory; all the players acquire the same health and sw
 
 <br><br>
 ### 💣 Time Bomb
-The time bomb is by far my favorite minigame within this game. This game is a swift hot potato game. One guy has the time bomb and must hand it off to another person before the 15 seconds is up. The person carrying the bomb will turn into a TNT to let the other players know he is the current holder. The person that last had the time bomb will be invincible until the following person hands it off to someone else. The invincibility stops players from handing the bomb back and forth. The game will continue until there are three players left in the game. The final three receive 300 Bells and 50 experience for not being eliminated.
+The time bomb is my favorite minigame within this game. This game is a swift hot potato game. One guy has the time bomb and must hand it off to another person before the 15 seconds is up. The person carrying the bomb will turn into a TNT to let the other players know he is the current holder. The person that last had the time bomb will be invincible until the following person hands it off to someone else. The invincibility stops players from handing the bomb back and forth. The game will continue until there are three players left in the game. The final three receive 300 Bells and 50 experience for not being eliminated.
 <br>
 
 <p align="center">
@@ -161,7 +161,7 @@ The time bomb is by far my favorite minigame within this game. This game is a sw
 
 <br><br>
 ### 👨‍👩‍👧‍👦 Team Deathmatch
-Team deathmatch is pretty simple. This game mode splits all players into two teams like any other game. Each group will be labeled in-game with a red or blue arrow, so there is no confusion on who is on each team. When one team is left standing, the game crowns the victors. The remaining team’s reward is 200 Bells each and some in-game experience.
+Team deathmatch is pretty simple. This game mode splits all players into two teams like any other game. Each group will be labeled in-game with a red or blue arrow to clarify who is on each team. When one team is left standing, the game crowns the victors. The remaining team’s reward is 200 Bells each and some in-game experience.
 <br>
 
 <p align="center">
@@ -185,7 +185,7 @@ Allowing the change of geography where users battle is the most straightforward 
 
 <br><br><br>
 ## 💰 Shop Items
-When making this game, I wanted to make the shop very fair. In some games I played before developing the shop, the shop ruined the whole gameplay experience based on the in-game powerups that players could buy. So with that in mind, I wanted to make the game fair for everyone. The stuff you could buy using Bells, which could also be purchased using ROBUX, were all cosmetic items. ROBUX could be purchased on ROBLOX’s website using real money; thus, you could convert real cash into in-game Bells. Everything else that upgraded your player had to be purchased using a currency associated with the in-game experience, also known as Gems. Thus, in short, Gems and Bells are earned by playing the game, but Bells could also be purchased using real money. So the game was a very anti “pay-to-win” layout.
+When making this game, I wanted to make the shop very fair. In some games I played before developing the shop, the shop ruined the whole gameplay experience based on the in-game powerups that players could buy. So with that in mind, I wanted to make the game fair for everyone. The stuff you could buy using Bells, which could also be purchased using ROBUX, were all cosmetic items. ROBUX could be purchased on ROBLOX’s website using real money; thus, you could convert real cash into in-game Bells. Everything else that upgraded your player had to be purchased using a currency associated with the in-game experience, also known as Gems. Thus, in short, Gems and Bells are earned by playing the game, but Bells can also be purchased using real money. So the game was a very anti “pay-to-win” layout.
 
 <br><br>
 ### 🎨 Sword Skins
@@ -207,7 +207,7 @@ Player Trails is a shop feature where I experimented with a player’s gameplay.
 
 <br><br>
 ### 🐶 Pets
-I wanted Bells to have more extensive uses than unlocking [chests](https://github.com/ethangutknecht/Outrageous-Blades/blob/main/README.md#-chests). With that in mind, I made the code for the pet itself and thought it would be a great addition to the game. Players can buy pets outright using Bells, and they will follow you around in-game. This addition was the first time that I introduced seasonal items. For example, I made a jack-o-lantern pet that the player could only buy in October. I think this feature gave a nice roundedness to the in-game shop.
+I wanted Bells to have more extensive uses than unlocking [chests](https://github.com/ethangutknecht/Outrageous-Blades/blob/main/README.md#-chests). With that in mind, I made the code for the pet itself and thought it would be a great addition to the game. Players can buy pets outright using Bells, and they will follow you around in-game. This addition was the first time that I introduced seasonal items. For example, I made a jack-o-lantern pet that the player could only buy in October. This feature gave a nice roundedness to the in-game shop.
 <br>
 
 <p align="center">
@@ -250,7 +250,7 @@ Gold was a “Premium” status players could buy for the game. The pass cost 35
 <br>
 
 #### 🔔 Buying Bells
-In Outrageous Blades, players could also buy Bells directly using ROBUX. This menu was also a considerable contribution to making some pocket cash. The exchange rate would become better the more bells the player would purchase.
+In Outrageous Blades, players could also buy Bells directly using ROBUX. This menu also makes a considerable contribution to making some pocket cash. The exchange rate would become better the more bells the player purchases.
 <br>
 
 <p align="center">
@@ -258,7 +258,7 @@ In Outrageous Blades, players could also buy Bells directly using ROBUX. This me
 </p>
 
 #### 💃 Emotes
-Emotes as something I added towards the end of the game’s lifetime. Emotes were animations you could buy with a one-time purchase for your character to perform a player animation. For example, the game’s emotes included dancing, clapping, working out, and more. These emotes were low-cost to the player, letting numerous people purchase them.
+Emotes as something I added toward the end of the game’s lifetime. Emotes were animations you could buy with a one-time purchase for your character to perform a player animation. For example, the game’s emotes included dancing, clapping, working out, and more. These emotes were low-cost to the player, letting numerous people purchase them.
 <br>
 
 <p align="center">
@@ -297,7 +297,7 @@ Leveling up was the only way players could get Gems within Outrageous Blades. In
 
 <br><br>
 ### 🎫 Twitter Codes
-When making this game, I had many goals in mind. One of the main goals was to make a name for myself within the community. So, I created a Twitter to hopefully build a following which I can use for any future games I want to make. I would transfer my in-game ROBLOX audience over to Twitter using redeemable codes. Then, I would post a new code on Twitter redeemable to unlock in-game items. It was successful since I had almost 3,000 followers when I put the last update within the game. [Here is a link to my ROBLOX Twitter profile that I used! (twitter.com/Oaktin) ](https://twitter.com/Oaktin)
+When making this game, I had many goals in mind. One of my main goals was to make a name for myself within the community. So, I created a Twitter to build a following which I can use for any future games I want to make. I would transfer my in-game ROBLOX audience over to Twitter using redeemable codes. Then, I would post a new code on Twitter, redeemable to unlock in-game items. It was successful since I had almost 3,000 followers when I put the last update within the game. [Here is a link to my ROBLOX Twitter profile that I used! (twitter.com/Oaktin) ](https://twitter.com/Oaktin)
 <br><br>
 
 <p align="center">
