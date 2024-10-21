@@ -1,5 +1,5 @@
 <h6 >
-	<a href="https://github.com/ethangtkt">↩ Back To Ethan Gutknecht's Profile</a>
+	<a href="https://github.com/ethangtkt">↩ Back To ethangtkt's Profile</a>
 </h6>
 
 
@@ -320,19 +320,19 @@ Close to the end of the game’s life, ROBLOX developed cross-platform capabilit
 
 - - - -
 <p align="center">
-	<a align="center" href="#-back-to-ethan-gutknechts-profile">⬆ Back To The Top </a>
+	<a align="center" href="#-back-to-ethangtkts-profile">⬆ Back To The Top </a>
 </p>
 
 - - - -
 
 <p align="center">
-	<a href="https://github.com/ethangtkt">↩ Back To Ethan Gutknecht's Profile</a>
+	<a href="https://github.com/ethangtkt">↩ Back To ethangtkt's Profile</a>
 </p>
 
 - - - -
 
 <p align="center">
-  Copyright © Ethan Gutknecht 2016-2022<br>
+  Copyright © ethangtkt 2016-2022<br>
   Any redistribution without authorization is strictly prohibited.
 </p>
 
