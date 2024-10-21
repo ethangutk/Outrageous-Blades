@@ -55,7 +55,7 @@
 ROBLOX admins are employees at ROBLOX headquarters. They develop and work on the game engine, website, avatars, and events. Producing Outrageous Blades, I had many employees play and give constructive criticism. These people playing this game were a significant accomplishment since many of these people I looked up to as role models. Many of these people are still very notable people within the community.
 
 <p align="center">
-	<img src="https://github.com/ethangutknecht/Outrageous-Blades/blob/main/Images/ROBLOXAdminList1.png?raw=true">
+	<img src="https://github.com/ethangtkt/Outrageous-Blades/blob/main/Images/ROBLOXAdminList1.png?raw=true">
 </p>
 <br>
 
@@ -63,14 +63,14 @@ ROBLOX admins are employees at ROBLOX headquarters. They develop and work on the
 Even six years later, getting to the front page is still an outstanding achievement. The "Front Page" is a term used in ROBLOX to represent the top games on the site at the time. The games with the most concurrent players will reach the top of the site. In 2014-2015, there was an area on the front page called the "Featured Section" where the only way to have your game come across that section was to have a ROBLOX Admin hand-pick it and add it. On February 18th, 2016, a generous ROBLOX admin decided to feature my game in the "Featured Section.” The front page featured Outrageous Blades for about two months before ROBLOX employees took it off to allow new talent to show off their games!
 
 <p align="center">
-	<img src="https://github.com/ethangutknecht/Outrageous-Blades/blob/main/Images/Achievements_1.png?raw=true">	
+	<img src="https://github.com/ethangtkt/Outrageous-Blades/blob/main/Images/Achievements_1.png?raw=true">	
 </p>
 
 #### Game Visits
 I had an overwhelming amount of people play the game, enough people for me to even understand as a young man in my computer science career. In total, I had 360,000 people play between 2015 and 2016. In addition, there was a total of 177,000 unique players joining the game.
 
 <p align="center">
-	<img src="https://github.com/ethangutknecht/Outrageous-Blades/blob/main/Images/Achievements_2.png?raw=true">
+	<img src="https://github.com/ethangtkt/Outrageous-Blades/blob/main/Images/Achievements_2.png?raw=true">
 </p>
 
 <br><br><br>
@@ -124,7 +124,7 @@ In 2016, I made this game when I was 15 years old, and the total development tim
 
 <br><br>
 <p align="center">
-	<img src="https://github.com/ethangutknecht/Outrageous-Blades/blob/main/Images/AboutTheGame_1.png?raw=true">
+	<img src="https://github.com/ethangtkt/Outrageous-Blades/blob/main/Images/AboutTheGame_1.png?raw=true">
 </p>
 <br><br><br>
 
@@ -134,8 +134,8 @@ The traditional bracket was the first minigame. Think of this minigame as a larg
 <br>
 
 <p align="center">
-	<img src="https://github.com/ethangutknecht/Outrageous-Blades/blob/main/Images/Tournament2.png?raw=true">	
-	<img src="https://github.com/ethangutknecht/Outrageous-Blades/blob/main/Images/Tournament1.png?raw=true">	
+	<img src="https://github.com/ethangtkt/Outrageous-Blades/blob/main/Images/Tournament2.png?raw=true">	
+	<img src="https://github.com/ethangtkt/Outrageous-Blades/blob/main/Images/Tournament1.png?raw=true">	
 </p>
 
 <br><br>
@@ -156,7 +156,7 @@ The time bomb is my favorite minigame within this game. This game is a swift hot
 <br>
 
 <p align="center">
-	<img src="https://github.com/ethangutknecht/Outrageous-Blades/blob/main/Images/TimeBomb1.png?raw=true">	
+	<img src="https://github.com/ethangtkt/Outrageous-Blades/blob/main/Images/TimeBomb1.png?raw=true">	
 </p>
 
 <br><br>
@@ -165,8 +165,8 @@ Team deathmatch is pretty simple. This game mode splits all players into two tea
 <br>
 
 <p align="center">
-	<img src="https://github.com/ethangutknecht/Outrageous-Blades/blob/main/Images/TeamDeathmatch1.png?raw=true">
-	<img src="https://github.com/ethangutknecht/Outrageous-Blades/blob/main/Images/TeamDeathmatch2.png?raw=true">
+	<img src="https://github.com/ethangtkt/Outrageous-Blades/blob/main/Images/TeamDeathmatch1.png?raw=true">
+	<img src="https://github.com/ethangtkt/Outrageous-Blades/blob/main/Images/TeamDeathmatch2.png?raw=true">
 </p>
 
 <br><br>
@@ -179,8 +179,8 @@ Allowing the change of geography where users battle is the most straightforward 
 <br>
 
 <p align="center">
-	<img src="https://github.com/ethangutknecht/Outrageous-Blades/blob/main/Images/DifferentMaps1.png?raw=true">
-	<img src="https://github.com/ethangutknecht/Outrageous-Blades/blob/main/Images/DifferentMaps2.png?raw=true">
+	<img src="https://github.com/ethangtkt/Outrageous-Blades/blob/main/Images/DifferentMaps1.png?raw=true">
+	<img src="https://github.com/ethangtkt/Outrageous-Blades/blob/main/Images/DifferentMaps2.png?raw=true">
 </p>
 
 <br><br><br>
@@ -189,48 +189,48 @@ When making this game, I wanted to make the shop very fair. In some games I play
 
 <br><br>
 ### 🎨 Sword Skins
-This was the first shop feature that I developed. This feature is cosmetic for all players and serves no in-game purpose. Like maps, many people volunteered to help create different skins as the game gained traction. A player can unlock skins by opening in-game [chests](https://github.com/ethangutknecht/Outrageous-Blades/blob/main/README.md#-chests) using Bells or ROBUX. Unique skins could also be unlocked using [Twitter codes](https://github.com/ethangutknecht/Outrageous-Blades/blob/main/README.md#-twitter-codes) I would release throughout development. At the end of the game’s life, there were 30 different sword skins that you were able to unlock.
+This was the first shop feature that I developed. This feature is cosmetic for all players and serves no in-game purpose. Like maps, many people volunteered to help create different skins as the game gained traction. A player can unlock skins by opening in-game [chests](https://github.com/ethangtkt/Outrageous-Blades/blob/main/README.md#-chests) using Bells or ROBUX. Unique skins could also be unlocked using [Twitter codes](https://github.com/ethangtkt/Outrageous-Blades/blob/main/README.md#-twitter-codes) I would release throughout development. At the end of the game’s life, there were 30 different sword skins that you were able to unlock.
 <br>
 
 <p align="center">
-	<img src="https://github.com/ethangutknecht/Outrageous-Blades/blob/main/Images/SwordSkins1.png?raw=true">
+	<img src="https://github.com/ethangtkt/Outrageous-Blades/blob/main/Images/SwordSkins1.png?raw=true">
 </p>
 
 <br><br>
 ### 🐾 Player Trails
-Player Trails is a shop feature where I experimented with a player’s gameplay. I made trails have a unique element to strengthen or diminish your [blade buffs](https://github.com/ethangutknecht/Outrageous-Blades/blob/main/README.md#-blade-buffs). For example, equipping a trail could increase your player’s speed by two, but to balance that out, it would diminish a player’s sword damage by 1. Thus, not giving the player a natural advantage since they will balance out. Players can get trails with in-game [chests](https://github.com/ethangutknecht/Outrageous-Blades/blob/main/README.md#-chests).
+Player Trails is a shop feature where I experimented with a player’s gameplay. I made trails have a unique element to strengthen or diminish your [blade buffs](https://github.com/ethangtkt/Outrageous-Blades/blob/main/README.md#-blade-buffs). For example, equipping a trail could increase your player’s speed by two, but to balance that out, it would diminish a player’s sword damage by 1. Thus, not giving the player a natural advantage since they will balance out. Players can get trails with in-game [chests](https://github.com/ethangtkt/Outrageous-Blades/blob/main/README.md#-chests).
 <br>
 
 <p align="center">
-	<img src="https://github.com/ethangutknecht/Outrageous-Blades/blob/main/Images/PlayerTrails1.png?raw=true">
+	<img src="https://github.com/ethangtkt/Outrageous-Blades/blob/main/Images/PlayerTrails1.png?raw=true">
 </p>
 
 <br><br>
 ### 🐶 Pets
-I wanted Bells to have more extensive uses than unlocking [chests](https://github.com/ethangutknecht/Outrageous-Blades/blob/main/README.md#-chests). With that in mind, I made the code for the pet itself and thought it would be a great addition to the game. Players can buy pets outright using Bells, and they will follow you around in-game. This addition was the first time that I introduced seasonal items. For example, I made a jack-o-lantern pet that the player could only buy in October. This feature gave a nice roundedness to the in-game shop.
+I wanted Bells to have more extensive uses than unlocking [chests](https://github.com/ethangtkt/Outrageous-Blades/blob/main/README.md#-chests). With that in mind, I made the code for the pet itself and thought it would be a great addition to the game. Players can buy pets outright using Bells, and they will follow you around in-game. This addition was the first time that I introduced seasonal items. For example, I made a jack-o-lantern pet that the player could only buy in October. This feature gave a nice roundedness to the in-game shop.
 <br>
 
 <p align="center">
-	<img src="https://github.com/ethangutknecht/Outrageous-Blades/blob/main/Images/Pets1.png?raw=true">
+	<img src="https://github.com/ethangtkt/Outrageous-Blades/blob/main/Images/Pets1.png?raw=true">
 </p>
 
 <br><br>
 ### 🎁 Chests
-Chests are the only way to unlock [sword skins](https://github.com/ethangutknecht/Outrageous-Blades/blob/main/README.md#-sword-skins) and [player trails](https://github.com/ethangutknecht/Outrageous-Blades/blob/main/README.md#-player-trails). Players can buy chests using in-game currency or directly using ROBUX. I had multiple chests over the game’s lifetime that featured different skins and trails that anyone could unlock. When a chest is “unlocked,” the skin or trail you receive is random, which the game decides. For example, some items are rarer than others. Similar concepts are used when unlocking trails. 
+Chests are the only way to unlock [sword skins](https://github.com/ethangtkt/Outrageous-Blades/blob/main/README.md#-sword-skins) and [player trails](https://github.com/ethangtkt/Outrageous-Blades/blob/main/README.md#-player-trails). Players can buy chests using in-game currency or directly using ROBUX. I had multiple chests over the game’s lifetime that featured different skins and trails that anyone could unlock. When a chest is “unlocked,” the skin or trail you receive is random, which the game decides. For example, some items are rarer than others. Similar concepts are used when unlocking trails. 
 <br>
 
 <p align="center">
-	<img src="https://github.com/ethangutknecht/Outrageous-Blades/blob/main/Images/Chests1.png?raw=true">
-	<img src="https://github.com/ethangutknecht/Outrageous-Blades/blob/main/Images/Chests2.png?raw=true">
+	<img src="https://github.com/ethangtkt/Outrageous-Blades/blob/main/Images/Chests1.png?raw=true">
+	<img src="https://github.com/ethangtkt/Outrageous-Blades/blob/main/Images/Chests2.png?raw=true">
 </p>
 
 <br><br>
 ### 📈 Blade Buffs
-Blade buffs used a different currency than all of the features listed above. Blade buffs was a mini sub-shop where you could upgrade your player’s power in-game. This sub-shop featured three categories to buy from, Player Speed, Sword Swing Time, and Damage. The Player’s Speed and Sword Damage was two Gems, and the Sword Swing Time cost four Gems to upgrade. Players could get Gems by [leveling up their player](https://github.com/ethangutknecht/Outrageous-Blades/blob/main/README.md#-leveling-system) with experience.
+Blade buffs used a different currency than all of the features listed above. Blade buffs was a mini sub-shop where you could upgrade your player’s power in-game. This sub-shop featured three categories to buy from, Player Speed, Sword Swing Time, and Damage. The Player’s Speed and Sword Damage was two Gems, and the Sword Swing Time cost four Gems to upgrade. Players could get Gems by [leveling up their player](https://github.com/ethangtkt/Outrageous-Blades/blob/main/README.md#-leveling-system) with experience.
 <br>
 
 <p align="center">
-	<img src="https://github.com/ethangutknecht/Outrageous-Blades/blob/main/Images/BladeBuffs1.png?raw=true">
+	<img src="https://github.com/ethangtkt/Outrageous-Blades/blob/main/Images/BladeBuffs1.png?raw=true">
 </p>
 
 <br><br><br>
@@ -238,15 +238,15 @@ Blade buffs used a different currency than all of the features listed above. Bla
 Though I didn’t make much money, I did profit a little. Whenever someone spent ROBUX to buy an in-game item, I would receive around 80% of that purchase, and ROBLOX took the other 20%. For example, the Earth Chest has keys that cost nine ROBUX each. I would receive seven in my account, and ROBLOX would take the other two. A couple of months before my game started to take off, ROBLOX released the [Developer Exchange Program](https://en.help.roblox.com/hc/en-us/articles/203314100-Developer-Exchange-DevEx-FAQs). In short, this allowed developers on the website to cash out ROBUX for United States dollars. The current exchange rate is $0.0035 U.S. Dollars per earned Robux. You must have a minimum of 100,000 Robux to cash out with the program.
 <br>
 #### 🗝 Chest Keys
-As stated earlier, you could unlock [chests](https://github.com/ethangutknecht/Outrageous-Blades/blob/main/README.md#-chests) using keys. In addition, you could buy some of the keys that the game offered using ROBUX. For example, one of the chests with many player trails costs nine ROBUX per key.
+As stated earlier, you could unlock [chests](https://github.com/ethangtkt/Outrageous-Blades/blob/main/README.md#-chests) using keys. In addition, you could buy some of the keys that the game offered using ROBUX. For example, one of the chests with many player trails costs nine ROBUX per key.
 <br>
 
 <p align="center">
-	<img src="https://github.com/ethangutknecht/Outrageous-Blades/blob/main/Images/Money1.png?raw=true">
+	<img src="https://github.com/ethangtkt/Outrageous-Blades/blob/main/Images/Money1.png?raw=true">
 </p>
 
 #### 🟨 Gold
-Gold was a “Premium” status players could buy for the game. The pass cost 350 ROBUX and was also a one-time purchase. This status gave players a yellow "Gold" tag in the [in-game chat](https://github.com/ethangutknecht/Outrageous-Blades#-custom-gui-chat) and showed off they had Gold and some shop discounts.
+Gold was a “Premium” status players could buy for the game. The pass cost 350 ROBUX and was also a one-time purchase. This status gave players a yellow "Gold" tag in the [in-game chat](https://github.com/ethangtkt/Outrageous-Blades#-custom-gui-chat) and showed off they had Gold and some shop discounts.
 <br>
 
 #### 🔔 Buying Bells
@@ -254,7 +254,7 @@ In Outrageous Blades, players could also buy Bells directly using ROBUX. This me
 <br>
 
 <p align="center">
-	<img src="https://github.com/ethangutknecht/Outrageous-Blades/blob/main/Images/BuyBells1.png?raw=true">
+	<img src="https://github.com/ethangtkt/Outrageous-Blades/blob/main/Images/BuyBells1.png?raw=true">
 </p>
 
 #### 💃 Emotes
@@ -262,7 +262,7 @@ Emotes as something I added toward the end of the game’s lifetime. Emotes were
 <br>
 
 <p align="center">
-	<img src="https://github.com/ethangutknecht/Outrageous-Blades/blob/main/Images/Emotes1.png?raw=true">
+	<img src="https://github.com/ethangtkt/Outrageous-Blades/blob/main/Images/Emotes1.png?raw=true">
 </p>
 
 
@@ -273,17 +273,17 @@ In 2015, I did not consider ROBLOX’s chat feature to be the best at the time. 
 <br>
 
 <p align="center">
-	<img src="https://github.com/ethangutknecht/Outrageous-Blades/blob/main/Images/GUIChat1.png?raw=true">
+	<img src="https://github.com/ethangtkt/Outrageous-Blades/blob/main/Images/GUIChat1.png?raw=true">
 </p>
 
 <br><br>
 ### 💽 Custom Player Database
-A database was something that I didn’t have any knowledge of before developing this game, so I dove in headfirst when learning how to do this. It took a lot of ROBLOX wiki articles, but I wanted to note it here. All of the player’s stats get saved using ROBLOX’s database system. I identified the players using their userID just in case they changed usernames. Stats like what [skins](https://github.com/ethangutknecht/Outrageous-Blades/blob/main/README.md#-sword-skins) you owned, what [pets](https://github.com/ethangutknecht/Outrageous-Blades/blob/main/README.md#-pets) you owned, what [trails](https://github.com/ethangutknecht/Outrageous-Blades/blob/main/README.md#-player-trails) you owned, your [experience](https://github.com/ethangutknecht/Outrageous-Blades/blob/main/README.md#-leveling-system), how many Bells you had, what trails you had equipped, your [blade buffs](https://github.com/ethangutknecht/Outrageous-Blades/blob/main/README.md#-blade-buffs), and so much more all got saved using the database system script I made. Even today, I can still go into the game seven years later, and all of my old stats show up!
+A database was something that I didn’t have any knowledge of before developing this game, so I dove in headfirst when learning how to do this. It took a lot of ROBLOX wiki articles, but I wanted to note it here. All of the player’s stats get saved using ROBLOX’s database system. I identified the players using their userID just in case they changed usernames. Stats like what [skins](https://github.com/ethangtkt/Outrageous-Blades/blob/main/README.md#-sword-skins) you owned, what [pets](https://github.com/ethangtkt/Outrageous-Blades/blob/main/README.md#-pets) you owned, what [trails](https://github.com/ethangtkt/Outrageous-Blades/blob/main/README.md#-player-trails) you owned, your [experience](https://github.com/ethangtkt/Outrageous-Blades/blob/main/README.md#-leveling-system), how many Bells you had, what trails you had equipped, your [blade buffs](https://github.com/ethangtkt/Outrageous-Blades/blob/main/README.md#-blade-buffs), and so much more all got saved using the database system script I made. Even today, I can still go into the game seven years later, and all of my old stats show up!
 
 
 <br><br>
 ### 🏅 Leveling System
-Leveling up was the only way players could get Gems within Outrageous Blades. In addition, players could use Gems in the [Blade Buffs](https://github.com/ethangutknecht/Outrageous-Blades/blob/main/README.md#-blade-buffs) shop. The leveling system was extraordinarily cool since it was an excellent opportunity to experiment with user interface animations. For example, a fantastic animation will come on the screen and congratulate you on leveling up when you level up. Every time you level up, you would get one Gem. The leveling system also allowed me to have badges, which act like achievements, in the game. Every five levels, there would be an achievement awarded to you. These achievements show up on the user’s profile on ROBLOX's website.
+Leveling up was the only way players could get Gems within Outrageous Blades. In addition, players could use Gems in the [Blade Buffs](https://github.com/ethangtkt/Outrageous-Blades/blob/main/README.md#-blade-buffs) shop. The leveling system was extraordinarily cool since it was an excellent opportunity to experiment with user interface animations. For example, a fantastic animation will come on the screen and congratulate you on leveling up when you level up. Every time you level up, you would get one Gem. The leveling system also allowed me to have badges, which act like achievements, in the game. Every five levels, there would be an achievement awarded to you. These achievements show up on the user’s profile on ROBLOX's website.
 
 - Level 1-2: 250 Experience Per Level
 - Level 3-9: 500 Experience Per Level
@@ -292,7 +292,7 @@ Leveling up was the only way players could get Gems within Outrageous Blades. In
 <br>
 
 <p align="center">
-	<img src="https://github.com/ethangutknecht/Outrageous-Blades/blob/main/Images/LevelingSystem1.png?raw=true">
+	<img src="https://github.com/ethangtkt/Outrageous-Blades/blob/main/Images/LevelingSystem1.png?raw=true">
 </p>
 
 <br><br>
@@ -301,9 +301,9 @@ When making this game, I had many goals in mind. One of my main goals was to mak
 <br><br>
 
 <p align="center">
-	<img src="https://github.com/ethangutknecht/Outrageous-Blades/blob/main/Images/TwitterCodes2.png?raw=true">
+	<img src="https://github.com/ethangtkt/Outrageous-Blades/blob/main/Images/TwitterCodes2.png?raw=true">
 	<br><br>
-	<img src="https://github.com/ethangutknecht/Outrageous-Blades/blob/main/Images/TwitterCodes1.png?raw=true">
+	<img src="https://github.com/ethangtkt/Outrageous-Blades/blob/main/Images/TwitterCodes1.png?raw=true">
 </p>
 
 <br><br>
@@ -312,8 +312,8 @@ Close to the end of the game’s life, ROBLOX developed cross-platform capabilit
 <br>
 
 <p align="center">
-	<img src="https://github.com/ethangutknecht/Outrageous-Blades/blob/main/Images/XBOXSupport1.png?raw=true">
-	<img src="https://github.com/ethangutknecht/Outrageous-Blades/blob/main/Images/XBOXSupport2.png?raw=true">
+	<img src="https://github.com/ethangtkt/Outrageous-Blades/blob/main/Images/XBOXSupport1.png?raw=true">
+	<img src="https://github.com/ethangtkt/Outrageous-Blades/blob/main/Images/XBOXSupport2.png?raw=true">
 </p>
 
 <br><br><br>
@@ -326,7 +326,7 @@ Close to the end of the game’s life, ROBLOX developed cross-platform capabilit
 - - - -
 
 <p align="center">
-	<a href="https://github.com/ethangutknecht">↩ Back To Ethan Gutknecht's Profile</a>
+	<a href="https://github.com/ethangtkt">↩ Back To Ethan Gutknecht's Profile</a>
 </p>
 
 - - - -
